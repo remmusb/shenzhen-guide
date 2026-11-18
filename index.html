@@ -42,7 +42,9 @@
   .vcard iframe{width:100%;height:180px;border:0;display:block}
   .vcard .vc-p{padding:9px 11px}
   .vcard .vc-t{font-size:12px;font-weight:600;line-height:1.35}
-  .vcard .vc-c{font-size:11px;color:var(--muted);margin-top:3px}
+  .vcard .vc-c{font-size:11px;color:var(--muted);margin-top:3px;display:flex;justify-content:space-between;align-items:center;gap:8px}
+  .vc-ts{background:var(--greenbg);color:var(--green);font-size:10.5px;font-weight:600;padding:2px 8px;border-radius:10px;cursor:pointer;white-space:nowrap}
+  .vc-ts:hover{background:var(--green);color:#fff}
   .section-t{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:1px;margin:22px 0 10px}
   .iti{border:1px solid var(--line);border-radius:8px;padding:12px 14px;margin-bottom:10px}
   .iti b{font-size:13px}
@@ -145,9 +147,12 @@ function renderList(){
 }
 
 function showDetail(p){
-  const vids=p.videos.map(v=>
-    `<div class="vcard"><iframe src="https://www.youtube.com/embed/${v.videoId}" allowfullscreen loading="lazy"></iframe>
-     <div class="vc-p"><div class="vc-t">${esc(v.title)}</div><div class="vc-c">by ${esc(v.channel)}</div></div></div>`).join('');
+  const vids=p.videos.map(v=>{
+    const start=v.ts!==undefined?'?start='+v.ts:'';
+    const badge=v.ts!==undefined?`<span class="vc-ts" data-vid="${v.videoId}" data-ts="${v.ts}">▶ ${fmtTs(v.ts)}</span>`:'';
+    return `<div class="vcard"><iframe id="f-${v.videoId}" src="https://www.youtube.com/embed/${v.videoId}${start}" allowfullscreen loading="lazy"></iframe>
+     <div class="vc-p"><div class="vc-t">${esc(v.title)}</div><div class="vc-c">by ${esc(v.channel)}${badge}</div></div></div>`;
+  }).join('');
   document.getElementById('sideContent').innerHTML=
     `<div class="detail">
        <button class="back">← Back to list</button>
@@ -213,6 +218,21 @@ async function submitLead(){
 }
 
 function esc(s){const d=document.createElement('div');d.textContent=s;return d.innerHTML}
+
+function fmtTs(sec){
+  const m=Math.floor(sec/60),s=sec%60;
+  return m+':'+(s<10?'0':'')+s;
+}
+
+// 点击时间戳：重载 iframe 从该秒开始播
+document.addEventListener('click',e=>{
+  const t=e.target.closest('.vc-ts');
+  if(!t)return;
+  const vid=t.dataset.vid,ts=t.dataset.ts;
+  const f=document.getElementById('f-'+vid);
+  if(f){f.src='https://www.youtube.com/embed/'+vid+'?start='+ts+'&autoplay=1';}
+});
+
 boot();
 </script>
 </body>
