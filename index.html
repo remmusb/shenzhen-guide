@@ -31,6 +31,7 @@
   .poi-name{font-weight:600;font-size:14px}
   .poi-cat{font-size:10px;padding:2px 7px;border-radius:10px;background:var(--bg);color:var(--muted);white-space:nowrap}
   .poi-en{font-size:11px;color:var(--muted);margin-top:2px}
+  .poi-desc{font-size:11.5px;color:#555;margin-top:6px;line-height:1.45}
   .poi-meta{font-size:11px;color:var(--green);margin-top:6px}
   .detail{padding:18px}
   .back{font-size:12px;color:var(--muted);cursor:pointer;border:0;background:none;padding:0;margin-bottom:12px}
@@ -87,7 +88,7 @@
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-const CATS=["All","景点","餐厅","商圈","交通","其他"];
+const CATS=["All","Attractions","Food & drink","Shopping","Transport","Other"];
 let POI=[],active="All",map,markers=[];
 
 async function boot(){
@@ -114,13 +115,13 @@ function renderFilters(){
   });
 }
 
-function shown(){return active==='All'?POI:POI.filter(p=>p.category===active)}
+function shown(){return active==='All'?POI:POI.filter(p=>p.categoryEn===active)}
 
 function renderMarkers(){
   markers.forEach(m=>map.removeLayer(m));markers=[];
   shown().forEach(p=>{
     const m=L.marker([p.lat,p.lng]).addTo(map);
-    m.bindPopup(`<b>${p.name_zh}</b><br><span style="font-size:11px;color:#888">${p.name_en}</span><br><span style="font-size:11px">Mentioned in ${p.recommendCount} video${p.recommendCount>1?'s':''}</span>`);
+    m.bindPopup(`<b>${p.name_en}</b><br><span style="font-size:11px;color:#888">${p.name_zh} · ${p.categoryEn}</span><br><span style="font-size:11px;line-height:1.4;display:block;max-width:210px;margin:5px 0">${p.desc}</span><span style="font-size:11px;color:var(--green)">● Featured in ${p.recommendCount} video${p.recommendCount>1?'s':''}</span>`);
     m.on('click',()=>showDetail(p));
     markers.push(m);
   });
@@ -133,9 +134,10 @@ function renderList(){
   document.getElementById('listSub').textContent=arr.length+' places · sorted by mentions';
   document.getElementById('sideContent').innerHTML=arr.map(p=>
     `<div class="poi" data-id="${p.id}">
-       <div class="poi-top"><span class="poi-name">${p.name_zh}</span><span class="poi-cat">${p.category}</span></div>
-       <div class="poi-en">${p.name_en}</div>
-       <div class="poi-meta">● ${p.recommendCount} video${p.recommendCount>1?'s':''}</div>
+       <div class="poi-top"><span class="poi-name">${p.name_en}</span><span class="poi-cat">${p.categoryEn}</span></div>
+       <div class="poi-en">${p.name_zh}</div>
+       <div class="poi-desc">${p.desc}</div>
+       <div class="poi-meta">● Featured in ${p.recommendCount} video${p.recommendCount>1?'s':''}</div>
      </div>`).join('');
   document.querySelectorAll('.poi').forEach(el=>el.onclick=()=>{
     showDetail(POI.find(p=>p.id===el.dataset.id));
@@ -149,7 +151,8 @@ function showDetail(p){
   document.getElementById('sideContent').innerHTML=
     `<div class="detail">
        <button class="back">← Back to list</button>
-       <h2>${p.name_zh}</h2><div class="en">${p.name_en} · ${p.category}</div>
+       <h2>${p.name_en}</h2><div class="en">${p.name_zh} · ${p.categoryEn}</div>
+       <p style="font-size:13px;color:#444;margin:0 0 14px;line-height:1.55">${p.desc}</p>
        <div class="section-t">Seen in ${p.videos.length} video${p.videos.length>1?'s':''}</div>
        ${vids||'<div style="font-size:12px;color:#888">No embedded video available.</div>'}
      </div>`;

@@ -1,5 +1,155 @@
 [
  {
+  "id": "Lianhuashan Park",
+  "name_en": "Lianhuashan Park",
+  "name_zh": "莲花山公园",
+  "category": "景点",
+  "lat": 22.5566275,
+  "lng": 114.0532386,
+  "recommendCount": 12,
+  "area": "深圳",
+  "videos": [
+   {
+    "videoId": "1iFGAGWDIps",
+    "title": "Best Things To Do in Shenzhen China Travel Guide 2026 4K",
+    "channel": "Island Hopper TV",
+    "url": "https://www.youtube.com/watch?v=1iFGAGWDIps"
+   },
+   {
+    "videoId": "V0mKD_Qx8AM",
+    "title": "4 Days in Shenzhen, China 2026 - A Travel Guide for First-Time Visitors",
+    "channel": "Lais",
+    "url": "https://www.youtube.com/watch?v=V0mKD_Qx8AM"
+   },
+   {
+    "videoId": "Q9JKqsWfeuQ",
+    "title": "Top 10 Best Things to do in Shenzhen, China [Shenzhen Travel Guide 2026]",
+    "channel": "Vacation Idea",
+    "url": "https://www.youtube.com/watch?v=Q9JKqsWfeuQ"
+   },
+   {
+    "videoId": "8AGxxMjAhXE",
+    "title": "Shenzhen China Travel Guide 2026 🇨🇳 | Inside China's MOST Futuristic City",
+    "channel": "PhatLife Project",
+    "url": "https://www.youtube.com/watch?v=8AGxxMjAhXE"
+   },
+   {
+    "videoId": "tRkUZ4wyYuo",
+    "title": "Ultimate Shenzhen China TRAVEL GUIDE 🇨🇳",
+    "channel": "Our Roaming Empire",
+    "url": "https://www.youtube.com/watch?v=tRkUZ4wyYuo"
+   },
+   {
+    "videoId": "h8M_2ES-WXY",
+    "title": "👀 Shenzhen, China: Where Did All These People Come From? #china #chinatravel",
+    "channel": "Routes and Horizons",
+    "url": "https://www.youtube.com/watch?v=h8M_2ES-WXY"
+   }
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Hilltop park with the city's best free panorama of the Futian skyline and a Deng Xiaoping statue."
+ },
+ {
+  "id": "OCT Loft",
+  "name_en": "OCT Loft",
+  "name_zh": "华侨城创意文化园",
+  "category": "景点",
+  "lat": 22.5410941,
+  "lng": 113.9880328,
+  "recommendCount": 10,
+  "area": "深圳",
+  "videos": [
+   {
+    "videoId": "nmmHPzU1OPg",
+    "title": "Shenzhen Travel Guide 2026: First-Timer Tips & 3-Day Plan",
+    "channel": "1stTimeChina",
+    "url": "https://www.youtube.com/watch?v=nmmHPzU1OPg"
+   },
+   {
+    "videoId": "MPSFmRPwvkM",
+    "title": "10 Things to See and Do in Shenzhen, China | Travel Video | Travel Guide | SKY Travel",
+    "channel": "Sky Travel",
+    "url": "https://www.youtube.com/watch?v=MPSFmRPwvkM"
+   },
+   {
+    "videoId": "j2gsOknX1rM",
+    "title": "Shenzhen Vlog 🇨🇳 | dim sum, coco park, Mixc, dafen oil painting village, nantou ancient city",
+    "channel": "Sunny Side Singapore",
+    "url": "https://www.youtube.com/watch?v=j2gsOknX1rM"
+   },
+   {
+    "videoId": "48WdZlVSnm8",
+    "title": "10 Best Places to Visit in SHENZHEN 2026 | China Travel Guide",
+    "channel": "TRIP XTREME",
+    "url": "https://www.youtube.com/watch?v=48WdZlVSnm8"
+   },
+   {
+    "videoId": "rTAXOiuRF1Q",
+    "title": "An art, food and culture lover's guide to Shenzhen 🇨🇳 | China Travel 2026",
+    "channel": "Sketch and Run",
+    "url": "https://www.youtube.com/watch?v=rTAXOiuRF1Q"
+   },
+   {
+    "videoId": "V0mKD_Qx8AM",
+    "title": "4 Days in Shenzhen, China 2026 - A Travel Guide for First-Time Visitors",
+    "channel": "Lais",
+    "url": "https://www.youtube.com/watch?v=V0mKD_Qx8AM"
+   }
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Former factory complex turned arts district — galleries, design studios and good cafés."
+ },
+ {
+  "id": "Sea World",
+  "name_en": "Sea World",
+  "name_zh": "海上世界",
+  "category": "商圈",
+  "lat": 22.4881293,
+  "lng": 113.9101589,
+  "recommendCount": 9,
+  "area": "深圳",
+  "videos": [
+   {
+    "videoId": "1iFGAGWDIps",
+    "title": "Best Things To Do in Shenzhen China Travel Guide 2026 4K",
+    "channel": "Island Hopper TV",
+    "url": "https://www.youtube.com/watch?v=1iFGAGWDIps"
+   },
+   {
+    "videoId": "sp5mvlTEQ5k",
+    "title": "Shenzhen, China: Top 10 Places to Visit in 8K | World's Most Advanced City? | Shenzhen Travel Guide",
+    "channel": "Lucas Travel Guide",
+    "url": "https://www.youtube.com/watch?v=sp5mvlTEQ5k"
+   },
+   {
+    "videoId": "XasHHRRJrfU",
+    "title": "Discover  Shenzhen, China 🇨🇳 charm: Ultimate 4-day travel guide",
+    "channel": "Top3Videos",
+    "url": "https://www.youtube.com/watch?v=XasHHRRJrfU"
+   },
+   {
+    "videoId": "mYKzjiWoSrM",
+    "title": "Solo Trip to SHENZHEN vlog 🇨🇳 China Travel 2025 ✈️ Best SEAFOOD & Dimsum 🤤",
+    "channel": "Yul Daze",
+    "url": "https://www.youtube.com/watch?v=mYKzjiWoSrM"
+   },
+   {
+    "videoId": "tRkUZ4wyYuo",
+    "title": "Ultimate Shenzhen China TRAVEL GUIDE 🇨🇳",
+    "channel": "Our Roaming Empire",
+    "url": "https://www.youtube.com/watch?v=tRkUZ4wyYuo"
+   },
+   {
+    "videoId": "MPSFmRPwvkM",
+    "title": "10 Things to See and Do in Shenzhen, China | Travel Video | Travel Guide | SKY Travel",
+    "channel": "Sky Travel",
+    "url": "https://www.youtube.com/watch?v=MPSFmRPwvkM"
+   }
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Shekou waterfront hub for seafood, bars and nightlife, anchored by a docked ship."
+ },
+ {
   "id": "Window of the World",
   "name_en": "Window of the World",
   "name_zh": "世界之窗",
@@ -45,55 +195,9 @@
     "channel": "The Tapper",
     "url": "https://www.youtube.com/watch?v=2-gWSGpRgFw"
    }
-  ]
- },
- {
-  "id": "Lianhuashan Park",
-  "name_en": "Lianhuashan Park",
-  "name_zh": "莲花山公园",
-  "category": "景点",
-  "lat": 22.5566275,
-  "lng": 114.0532386,
-  "recommendCount": 8,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "1iFGAGWDIps",
-    "title": "Best Things To Do in Shenzhen China Travel Guide 2026 4K",
-    "channel": "Island Hopper TV",
-    "url": "https://www.youtube.com/watch?v=1iFGAGWDIps"
-   },
-   {
-    "videoId": "V0mKD_Qx8AM",
-    "title": "4 Days in Shenzhen, China 2026 - A Travel Guide for First-Time Visitors",
-    "channel": "Lais",
-    "url": "https://www.youtube.com/watch?v=V0mKD_Qx8AM"
-   },
-   {
-    "videoId": "Q9JKqsWfeuQ",
-    "title": "Top 10 Best Things to do in Shenzhen, China [Shenzhen Travel Guide 2026]",
-    "channel": "Vacation Idea",
-    "url": "https://www.youtube.com/watch?v=Q9JKqsWfeuQ"
-   },
-   {
-    "videoId": "8AGxxMjAhXE",
-    "title": "Shenzhen China Travel Guide 2026 🇨🇳 | Inside China's MOST Futuristic City",
-    "channel": "PhatLife Project",
-    "url": "https://www.youtube.com/watch?v=8AGxxMjAhXE"
-   },
-   {
-    "videoId": "tRkUZ4wyYuo",
-    "title": "Ultimate Shenzhen China TRAVEL GUIDE 🇨🇳",
-    "channel": "Our Roaming Empire",
-    "url": "https://www.youtube.com/watch?v=tRkUZ4wyYuo"
-   },
-   {
-    "videoId": "h8M_2ES-WXY",
-    "title": "👀 Shenzhen, China: Where Did All These People Come From? #china #chinatravel",
-    "channel": "Routes and Horizons",
-    "url": "https://www.youtube.com/watch?v=h8M_2ES-WXY"
-   }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Theme park with miniature replicas of landmarks from around the world — a classic first stop for photos."
  },
  {
   "id": "Shenzhen Bay Park",
@@ -141,7 +245,59 @@
     "channel": "Town Travel Tips",
     "url": "https://www.youtube.com/watch?v=yB_mEPdY8xk"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "A 10+ km seaside promenade with skyline views — go about an hour before sunset."
+ },
+ {
+  "id": "Nantou Ancient City",
+  "name_en": "Nantou Ancient City",
+  "name_zh": "南头古城",
+  "category": "景点",
+  "lat": 22.5403527,
+  "lng": 113.9194304,
+  "recommendCount": 8,
+  "area": "深圳",
+  "videos": [
+   {
+    "videoId": "V0mKD_Qx8AM",
+    "title": "4 Days in Shenzhen, China 2026 - A Travel Guide for First-Time Visitors",
+    "channel": "Lais",
+    "url": "https://www.youtube.com/watch?v=V0mKD_Qx8AM"
+   },
+   {
+    "videoId": "tqNs8ID1Vvo",
+    "title": "🔥Shenzhen TOP 10 MUST-SEE Spots! #travel #china #chinatravel #shenzhen #city #mustsee #tour #guide",
+    "channel": "gotochinanow",
+    "url": "https://www.youtube.com/watch?v=tqNs8ID1Vvo"
+   },
+   {
+    "videoId": "nmmHPzU1OPg",
+    "title": "Shenzhen Travel Guide 2026: First-Timer Tips & 3-Day Plan",
+    "channel": "1stTimeChina",
+    "url": "https://www.youtube.com/watch?v=nmmHPzU1OPg"
+   },
+   {
+    "videoId": "j2gsOknX1rM",
+    "title": "Shenzhen Vlog 🇨🇳 | dim sum, coco park, Mixc, dafen oil painting village, nantou ancient city",
+    "channel": "Sunny Side Singapore",
+    "url": "https://www.youtube.com/watch?v=j2gsOknX1rM"
+   },
+   {
+    "videoId": "UtjSZzl5Zes",
+    "title": "china vlog 🇨🇳 first time in shenzhen, upperhills shopping, nantou ancient city | 深圳之旅",
+    "channel": "Via Li",
+    "url": "https://www.youtube.com/watch?v=UtjSZzl5Zes"
+   },
+   {
+    "videoId": "cMEm7Vl3cKA",
+    "title": "3 days in shenzhen (china's futuristic city)",
+    "channel": "Sam and Victor",
+    "url": "https://www.youtube.com/watch?v=cMEm7Vl3cKA"
+   }
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Walled old town turned design district: narrow lanes, cafés and a favorite local citywalk."
  },
  {
   "id": "Shenzhen Bay",
@@ -189,35 +345,31 @@
     "channel": "CoolVision",
     "url": "https://www.youtube.com/watch?v=P7W20hdgWXY"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "The wide bay separating Shenzhen from Hong Kong, framed by a landscaped waterfront."
  },
  {
-  "id": "Sea World",
-  "name_en": "Sea World",
-  "name_zh": "海上世界",
+  "id": "Dongmen Pedestrian Street",
+  "name_en": "Dongmen Pedestrian Street",
+  "name_zh": "东门步行街",
   "category": "商圈",
-  "lat": 22.4881293,
-  "lng": 113.9101589,
-  "recommendCount": 6,
+  "lat": 22.5461164,
+  "lng": 114.1129238,
+  "recommendCount": 7,
   "area": "深圳",
   "videos": [
    {
-    "videoId": "1iFGAGWDIps",
-    "title": "Best Things To Do in Shenzhen China Travel Guide 2026 4K",
-    "channel": "Island Hopper TV",
-    "url": "https://www.youtube.com/watch?v=1iFGAGWDIps"
+    "videoId": "Q9JKqsWfeuQ",
+    "title": "Top 10 Best Things to do in Shenzhen, China [Shenzhen Travel Guide 2026]",
+    "channel": "Vacation Idea",
+    "url": "https://www.youtube.com/watch?v=Q9JKqsWfeuQ"
    },
    {
-    "videoId": "sp5mvlTEQ5k",
-    "title": "Shenzhen, China: Top 10 Places to Visit in 8K | World's Most Advanced City? | Shenzhen Travel Guide",
-    "channel": "Lucas Travel Guide",
-    "url": "https://www.youtube.com/watch?v=sp5mvlTEQ5k"
-   },
-   {
-    "videoId": "XasHHRRJrfU",
-    "title": "Discover  Shenzhen, China 🇨🇳 charm: Ultimate 4-day travel guide",
-    "channel": "Top3Videos",
-    "url": "https://www.youtube.com/watch?v=XasHHRRJrfU"
+    "videoId": "8AGxxMjAhXE",
+    "title": "Shenzhen China Travel Guide 2026 🇨🇳 | Inside China's MOST Futuristic City",
+    "channel": "PhatLife Project",
+    "url": "https://www.youtube.com/watch?v=8AGxxMjAhXE"
    },
    {
     "videoId": "mYKzjiWoSrM",
@@ -226,18 +378,76 @@
     "url": "https://www.youtube.com/watch?v=mYKzjiWoSrM"
    },
    {
-    "videoId": "tRkUZ4wyYuo",
-    "title": "Ultimate Shenzhen China TRAVEL GUIDE 🇨🇳",
-    "channel": "Our Roaming Empire",
-    "url": "https://www.youtube.com/watch?v=tRkUZ4wyYuo"
+    "videoId": "yB_mEPdY8xk",
+    "title": "2 Days in Shenzhen, China - The Perfect Itinerary!",
+    "channel": "Town Travel Tips",
+    "url": "https://www.youtube.com/watch?v=yB_mEPdY8xk"
    },
    {
-    "videoId": "MPSFmRPwvkM",
-    "title": "10 Things to See and Do in Shenzhen, China | Travel Video | Travel Guide | SKY Travel",
-    "channel": "Sky Travel",
-    "url": "https://www.youtube.com/watch?v=MPSFmRPwvkM"
+    "videoId": "j2gsOknX1rM",
+    "title": "Shenzhen Vlog 🇨🇳 | dim sum, coco park, Mixc, dafen oil painting village, nantou ancient city",
+    "channel": "Sunny Side Singapore",
+    "url": "https://www.youtube.com/watch?v=j2gsOknX1rM"
+   },
+   {
+    "videoId": "V0mKD_Qx8AM",
+    "title": "4 Days in Shenzhen, China 2026 - A Travel Guide for First-Time Visitors",
+    "channel": "Lais",
+    "url": "https://www.youtube.com/watch?v=V0mKD_Qx8AM"
    }
-  ]
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Bustling old shopping street packed with small shops, street food and crowds."
+ },
+ {
+  "id": "Ping An Finance Centre",
+  "name_en": "Ping An Finance Centre",
+  "name_zh": "平安金融中心",
+  "category": "景点",
+  "lat": 22.5364119,
+  "lng": 114.0504709,
+  "recommendCount": 7,
+  "area": "深圳",
+  "videos": [
+   {
+    "videoId": "Q9JKqsWfeuQ",
+    "title": "Top 10 Best Things to do in Shenzhen, China [Shenzhen Travel Guide 2026]",
+    "channel": "Vacation Idea",
+    "url": "https://www.youtube.com/watch?v=Q9JKqsWfeuQ"
+   },
+   {
+    "videoId": "npMnUCobcps",
+    "title": "Top 10 Best Things To do in Shenzhen, China [Shenzhen Travel Guide 2025]",
+    "channel": "Travel Explorer",
+    "url": "https://www.youtube.com/watch?v=npMnUCobcps"
+   },
+   {
+    "videoId": "2-gWSGpRgFw",
+    "title": "Shenzhen: Top 10 Places to Visit in Shenzhen, China. Ultimate Travel Guide.",
+    "channel": "The Tapper",
+    "url": "https://www.youtube.com/watch?v=2-gWSGpRgFw"
+   },
+   {
+    "videoId": "nmmHPzU1OPg",
+    "title": "Shenzhen Travel Guide 2026: First-Timer Tips & 3-Day Plan",
+    "channel": "1stTimeChina",
+    "url": "https://www.youtube.com/watch?v=nmmHPzU1OPg"
+   },
+   {
+    "videoId": "1iFGAGWDIps",
+    "title": "Best Things To Do in Shenzhen China Travel Guide 2026 4K",
+    "channel": "Island Hopper TV",
+    "url": "https://www.youtube.com/watch?v=1iFGAGWDIps"
+   },
+   {
+    "videoId": "j2gsOknX1rM",
+    "title": "Shenzhen Vlog 🇨🇳 | dim sum, coco park, Mixc, dafen oil painting village, nantou ancient city",
+    "channel": "Sunny Side Singapore",
+    "url": "https://www.youtube.com/watch?v=j2gsOknX1rM"
+   }
+  ],
+  "categoryEn": "Attractions",
+  "desc": "One of China's tallest towers, with an observation deck high above the city."
  },
  {
   "id": "Dameisha Beach",
@@ -285,7 +495,9 @@
     "channel": "Sky Travel",
     "url": "https://www.youtube.com/watch?v=MPSFmRPwvkM"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Shenzhen's most popular free beach, packed on summer weekends — arrive early."
  },
  {
   "id": "Splendid China Folk Village",
@@ -327,133 +539,9 @@
     "channel": "TRIP XTREME",
     "url": "https://www.youtube.com/watch?v=48WdZlVSnm8"
    }
-  ]
- },
- {
-  "id": "Nantou Ancient City",
-  "name_en": "Nantou Ancient City",
-  "name_zh": "南头古城",
-  "category": "景点",
-  "lat": 22.5403527,
-  "lng": 113.9194304,
-  "recommendCount": 5,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "V0mKD_Qx8AM",
-    "title": "4 Days in Shenzhen, China 2026 - A Travel Guide for First-Time Visitors",
-    "channel": "Lais",
-    "url": "https://www.youtube.com/watch?v=V0mKD_Qx8AM"
-   },
-   {
-    "videoId": "tqNs8ID1Vvo",
-    "title": "🔥Shenzhen TOP 10 MUST-SEE Spots! #travel #china #chinatravel #shenzhen #city #mustsee #tour #guide",
-    "channel": "gotochinanow",
-    "url": "https://www.youtube.com/watch?v=tqNs8ID1Vvo"
-   },
-   {
-    "videoId": "nmmHPzU1OPg",
-    "title": "Shenzhen Travel Guide 2026: First-Timer Tips & 3-Day Plan",
-    "channel": "1stTimeChina",
-    "url": "https://www.youtube.com/watch?v=nmmHPzU1OPg"
-   },
-   {
-    "videoId": "j2gsOknX1rM",
-    "title": "Shenzhen Vlog 🇨🇳 | dim sum, coco park, Mixc, dafen oil painting village, nantou ancient city",
-    "channel": "Sunny Side Singapore",
-    "url": "https://www.youtube.com/watch?v=j2gsOknX1rM"
-   },
-   {
-    "videoId": "UtjSZzl5Zes",
-    "title": "china vlog 🇨🇳 first time in shenzhen, upperhills shopping, nantou ancient city | 深圳之旅",
-    "channel": "Via Li",
-    "url": "https://www.youtube.com/watch?v=UtjSZzl5Zes"
-   }
-  ]
- },
- {
-  "id": "Dongmen Pedestrian Street",
-  "name_en": "Dongmen Pedestrian Street",
-  "name_zh": "东门步行街",
-  "category": "商圈",
-  "lat": 22.5461164,
-  "lng": 114.1129238,
-  "recommendCount": 5,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "Q9JKqsWfeuQ",
-    "title": "Top 10 Best Things to do in Shenzhen, China [Shenzhen Travel Guide 2026]",
-    "channel": "Vacation Idea",
-    "url": "https://www.youtube.com/watch?v=Q9JKqsWfeuQ"
-   },
-   {
-    "videoId": "8AGxxMjAhXE",
-    "title": "Shenzhen China Travel Guide 2026 🇨🇳 | Inside China's MOST Futuristic City",
-    "channel": "PhatLife Project",
-    "url": "https://www.youtube.com/watch?v=8AGxxMjAhXE"
-   },
-   {
-    "videoId": "mYKzjiWoSrM",
-    "title": "Solo Trip to SHENZHEN vlog 🇨🇳 China Travel 2025 ✈️ Best SEAFOOD & Dimsum 🤤",
-    "channel": "Yul Daze",
-    "url": "https://www.youtube.com/watch?v=mYKzjiWoSrM"
-   },
-   {
-    "videoId": "yB_mEPdY8xk",
-    "title": "2 Days in Shenzhen, China - The Perfect Itinerary!",
-    "channel": "Town Travel Tips",
-    "url": "https://www.youtube.com/watch?v=yB_mEPdY8xk"
-   },
-   {
-    "videoId": "j2gsOknX1rM",
-    "title": "Shenzhen Vlog 🇨🇳 | dim sum, coco park, Mixc, dafen oil painting village, nantou ancient city",
-    "channel": "Sunny Side Singapore",
-    "url": "https://www.youtube.com/watch?v=j2gsOknX1rM"
-   }
-  ]
- },
- {
-  "id": "OCT Loft",
-  "name_en": "OCT Loft",
-  "name_zh": "华侨城创意文化园",
-  "category": "景点",
-  "lat": 22.5410941,
-  "lng": 113.9880328,
-  "recommendCount": 5,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "nmmHPzU1OPg",
-    "title": "Shenzhen Travel Guide 2026: First-Timer Tips & 3-Day Plan",
-    "channel": "1stTimeChina",
-    "url": "https://www.youtube.com/watch?v=nmmHPzU1OPg"
-   },
-   {
-    "videoId": "MPSFmRPwvkM",
-    "title": "10 Things to See and Do in Shenzhen, China | Travel Video | Travel Guide | SKY Travel",
-    "channel": "Sky Travel",
-    "url": "https://www.youtube.com/watch?v=MPSFmRPwvkM"
-   },
-   {
-    "videoId": "j2gsOknX1rM",
-    "title": "Shenzhen Vlog 🇨🇳 | dim sum, coco park, Mixc, dafen oil painting village, nantou ancient city",
-    "channel": "Sunny Side Singapore",
-    "url": "https://www.youtube.com/watch?v=j2gsOknX1rM"
-   },
-   {
-    "videoId": "48WdZlVSnm8",
-    "title": "10 Best Places to Visit in SHENZHEN 2026 | China Travel Guide",
-    "channel": "TRIP XTREME",
-    "url": "https://www.youtube.com/watch?v=48WdZlVSnm8"
-   },
-   {
-    "videoId": "rTAXOiuRF1Q",
-    "title": "An art, food and culture lover's guide to Shenzhen 🇨🇳 | China Travel 2026",
-    "channel": "Sketch and Run",
-    "url": "https://www.youtube.com/watch?v=rTAXOiuRF1Q"
-   }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Miniature Chinese landmarks plus folk performances — an easy crash course in the country."
  },
  {
   "id": "Dafen Oil Painting Village",
@@ -495,7 +583,9 @@
     "channel": "Sketch and Run",
     "url": "https://www.youtube.com/watch?v=rTAXOiuRF1Q"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Village famous for oil-painting studios; you can watch artists work or commission a piece."
  },
  {
   "id": "Futian CBD",
@@ -504,7 +594,7 @@
   "category": "商圈",
   "lat": 22.5335041,
   "lng": 114.0547472,
-  "recommendCount": 4,
+  "recommendCount": 5,
   "area": "深圳",
   "videos": [
    {
@@ -530,44 +620,60 @@
     "title": "10 Things to See and Do in Shenzhen, China | Travel Video | Travel Guide | SKY Travel",
     "channel": "Sky Travel",
     "url": "https://www.youtube.com/watch?v=MPSFmRPwvkM"
+   },
+   {
+    "videoId": "P7W20hdgWXY",
+    "title": "I spent 4 days in China’s Most Futuristic City",
+    "channel": "CoolVision",
+    "url": "https://www.youtube.com/watch?v=P7W20hdgWXY"
    }
-  ]
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Shenzhen's gleaming financial core, best seen around dusk when the towers light up."
  },
  {
-  "id": "Ping An Finance Centre",
-  "name_en": "Ping An Finance Centre",
-  "name_zh": "平安金融中心",
-  "category": "景点",
-  "lat": 22.5364119,
-  "lng": 114.0504709,
-  "recommendCount": 4,
+  "id": "MixC",
+  "name_en": "MixC",
+  "name_zh": "万象城",
+  "category": "商圈",
+  "lat": 22.5424295,
+  "lng": 114.1057278,
+  "recommendCount": 5,
   "area": "深圳",
   "videos": [
    {
-    "videoId": "Q9JKqsWfeuQ",
-    "title": "Top 10 Best Things to do in Shenzhen, China [Shenzhen Travel Guide 2026]",
-    "channel": "Vacation Idea",
-    "url": "https://www.youtube.com/watch?v=Q9JKqsWfeuQ"
+    "videoId": "V0mKD_Qx8AM",
+    "title": "4 Days in Shenzhen, China 2026 - A Travel Guide for First-Time Visitors",
+    "channel": "Lais",
+    "url": "https://www.youtube.com/watch?v=V0mKD_Qx8AM"
    },
    {
-    "videoId": "npMnUCobcps",
-    "title": "Top 10 Best Things To do in Shenzhen, China [Shenzhen Travel Guide 2025]",
-    "channel": "Travel Explorer",
-    "url": "https://www.youtube.com/watch?v=npMnUCobcps"
+    "videoId": "mYKzjiWoSrM",
+    "title": "Solo Trip to SHENZHEN vlog 🇨🇳 China Travel 2025 ✈️ Best SEAFOOD & Dimsum 🤤",
+    "channel": "Yul Daze",
+    "url": "https://www.youtube.com/watch?v=mYKzjiWoSrM"
    },
    {
-    "videoId": "2-gWSGpRgFw",
-    "title": "Shenzhen: Top 10 Places to Visit in Shenzhen, China. Ultimate Travel Guide.",
-    "channel": "The Tapper",
-    "url": "https://www.youtube.com/watch?v=2-gWSGpRgFw"
+    "videoId": "8AGxxMjAhXE",
+    "title": "Shenzhen China Travel Guide 2026 🇨🇳 | Inside China's MOST Futuristic City",
+    "channel": "PhatLife Project",
+    "url": "https://www.youtube.com/watch?v=8AGxxMjAhXE"
    },
    {
-    "videoId": "nmmHPzU1OPg",
-    "title": "Shenzhen Travel Guide 2026: First-Timer Tips & 3-Day Plan",
-    "channel": "1stTimeChina",
-    "url": "https://www.youtube.com/watch?v=nmmHPzU1OPg"
+    "videoId": "j2gsOknX1rM",
+    "title": "Shenzhen Vlog 🇨🇳 | dim sum, coco park, Mixc, dafen oil painting village, nantou ancient city",
+    "channel": "Sunny Side Singapore",
+    "url": "https://www.youtube.com/watch?v=j2gsOknX1rM"
+   },
+   {
+    "videoId": "rTAXOiuRF1Q",
+    "title": "An art, food and culture lover's guide to Shenzhen 🇨🇳 | China Travel 2026",
+    "channel": "Sketch and Run",
+    "url": "https://www.youtube.com/watch?v=rTAXOiuRF1Q"
    }
-  ]
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Polished upscale mall for luxury shopping and a reliable meal."
  },
  {
   "id": "OCT Harbour",
@@ -603,7 +709,9 @@
     "channel": "The Tapper",
     "url": "https://www.youtube.com/watch?v=2-gWSGpRgFw"
    }
-  ]
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Lively waterfront complex of restaurants, shops and an evening fountain show."
  },
  {
   "id": "Happy Valley",
@@ -639,7 +747,9 @@
     "channel": "traveltoqin",
     "url": "https://www.youtube.com/watch?v=BDkjb-wC-k0"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Large amusement park with roller coasters and themed zones — a full-day family outing."
  },
  {
   "id": "MixC World",
@@ -675,7 +785,161 @@
     "channel": "Sketch and Run",
     "url": "https://www.youtube.com/watch?v=rTAXOiuRF1Q"
    }
-  ]
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Open-air design-forward mall with Apple, Gentle Monster and a strong food lineup."
+ },
+ {
+  "id": "Talent Park",
+  "name_en": "Talent Park",
+  "name_zh": "人才公园",
+  "category": "景点",
+  "lat": 22.5148809,
+  "lng": 113.9383043,
+  "recommendCount": 4,
+  "area": "深圳",
+  "videos": [
+   {
+    "videoId": "1iFGAGWDIps",
+    "title": "Best Things To Do in Shenzhen China Travel Guide 2026 4K",
+    "channel": "Island Hopper TV",
+    "url": "https://www.youtube.com/watch?v=1iFGAGWDIps"
+   },
+   {
+    "videoId": "sp5mvlTEQ5k",
+    "title": "Shenzhen, China: Top 10 Places to Visit in 8K | World's Most Advanced City? | Shenzhen Travel Guide",
+    "channel": "Lucas Travel Guide",
+    "url": "https://www.youtube.com/watch?v=sp5mvlTEQ5k"
+   },
+   {
+    "videoId": "nmmHPzU1OPg",
+    "title": "Shenzhen Travel Guide 2026: First-Timer Tips & 3-Day Plan",
+    "channel": "1stTimeChina",
+    "url": "https://www.youtube.com/watch?v=nmmHPzU1OPg"
+   },
+   {
+    "videoId": "8AGxxMjAhXE",
+    "title": "Shenzhen China Travel Guide 2026 🇨🇳 | Inside China's MOST Futuristic City",
+    "channel": "PhatLife Project",
+    "url": "https://www.youtube.com/watch?v=8AGxxMjAhXE"
+   }
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Sleek bayfront park known for skyline reflections and evening light shows."
+ },
+ {
+  "id": "COCO Park",
+  "name_en": "COCO Park",
+  "name_zh": "购物公园",
+  "category": "商圈",
+  "lat": 22.5363888,
+  "lng": 114.0488652,
+  "recommendCount": 4,
+  "area": "深圳",
+  "videos": [
+   {
+    "videoId": "Q9JKqsWfeuQ",
+    "title": "Top 10 Best Things to do in Shenzhen, China [Shenzhen Travel Guide 2026]",
+    "channel": "Vacation Idea",
+    "url": "https://www.youtube.com/watch?v=Q9JKqsWfeuQ"
+   },
+   {
+    "videoId": "yB_mEPdY8xk",
+    "title": "2 Days in Shenzhen, China - The Perfect Itinerary!",
+    "channel": "Town Travel Tips",
+    "url": "https://www.youtube.com/watch?v=yB_mEPdY8xk"
+   },
+   {
+    "videoId": "j2gsOknX1rM",
+    "title": "Shenzhen Vlog 🇨🇳 | dim sum, coco park, Mixc, dafen oil painting village, nantou ancient city",
+    "channel": "Sunny Side Singapore",
+    "url": "https://www.youtube.com/watch?v=j2gsOknX1rM"
+   },
+   {
+    "videoId": "1iFGAGWDIps",
+    "title": "Best Things To Do in Shenzhen China Travel Guide 2026 4K",
+    "channel": "Island Hopper TV",
+    "url": "https://www.youtube.com/watch?v=1iFGAGWDIps"
+   }
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Open-air mall and nightlife strip in Futian, busy with bars and restaurants after dark."
+ },
+ {
+  "id": "Huaqiangbei",
+  "name_en": "Huaqiangbei",
+  "name_zh": "华强北",
+  "category": "商圈",
+  "lat": 22.5448183,
+  "lng": 114.0815422,
+  "recommendCount": 4,
+  "area": "深圳",
+  "videos": [
+   {
+    "videoId": "XasHHRRJrfU",
+    "title": "Discover  Shenzhen, China 🇨🇳 charm: Ultimate 4-day travel guide",
+    "channel": "Top3Videos",
+    "url": "https://www.youtube.com/watch?v=XasHHRRJrfU"
+   },
+   {
+    "videoId": "nmmHPzU1OPg",
+    "title": "Shenzhen Travel Guide 2026: First-Timer Tips & 3-Day Plan",
+    "channel": "1stTimeChina",
+    "url": "https://www.youtube.com/watch?v=nmmHPzU1OPg"
+   },
+   {
+    "videoId": "P7W20hdgWXY",
+    "title": "I spent 4 days in China’s Most Futuristic City",
+    "channel": "CoolVision",
+    "url": "https://www.youtube.com/watch?v=P7W20hdgWXY"
+   },
+   {
+    "videoId": "yB_mEPdY8xk",
+    "title": "2 Days in Shenzhen, China - The Perfect Itinerary!",
+    "channel": "Town Travel Tips",
+    "url": "https://www.youtube.com/watch?v=yB_mEPdY8xk"
+   }
+  ],
+  "categoryEn": "Shopping",
+  "desc": "The world's largest electronics market — gadgets, components and repair stalls for blocks."
+ },
+ {
+  "id": "Shenzhen Bay Culture Square",
+  "name_en": "Shenzhen Bay Culture Square",
+  "name_zh": "深圳湾文化广场",
+  "category": "景点",
+  "lat": 22.5153022,
+  "lng": 113.9404676,
+  "recommendCount": 4,
+  "area": "深圳",
+  "videos": [
+   {
+    "videoId": "cMEm7Vl3cKA",
+    "title": "3 days in shenzhen (china's futuristic city)",
+    "channel": "Sam and Victor",
+    "url": "https://www.youtube.com/watch?v=cMEm7Vl3cKA"
+   },
+   {
+    "videoId": "cV7gk72NOcE",
+    "title": "I Can't Believe What China Built in Shenzhen...",
+    "channel": "Living in China",
+    "url": "https://www.youtube.com/watch?v=cV7gk72NOcE"
+   },
+   {
+    "videoId": "fphsGZjHumg",
+    "title": "My HK friends kept telling me to do this so I did it",
+    "channel": "Joy | theshbang",
+    "url": "https://www.youtube.com/watch?v=fphsGZjHumg"
+   },
+   {
+    "videoId": "V0mKD_Qx8AM",
+    "title": "4 Days in Shenzhen, China 2026 - A Travel Guide for First-Time Visitors",
+    "channel": "Lais",
+    "url": "https://www.youtube.com/watch?v=V0mKD_Qx8AM"
+   }
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Striking new cultural complex of futuristic buildings beside Shenzhen Bay."
  },
  {
   "id": "Fairy Lake Botanical Garden",
@@ -705,67 +969,9 @@
     "channel": "TRIP XTREME",
     "url": "https://www.youtube.com/watch?v=48WdZlVSnm8"
    }
-  ]
- },
- {
-  "id": "Talent Park",
-  "name_en": "Talent Park",
-  "name_zh": "人才公园",
-  "category": "景点",
-  "lat": 22.5148809,
-  "lng": 113.9383043,
-  "recommendCount": 3,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "1iFGAGWDIps",
-    "title": "Best Things To Do in Shenzhen China Travel Guide 2026 4K",
-    "channel": "Island Hopper TV",
-    "url": "https://www.youtube.com/watch?v=1iFGAGWDIps"
-   },
-   {
-    "videoId": "sp5mvlTEQ5k",
-    "title": "Shenzhen, China: Top 10 Places to Visit in 8K | World's Most Advanced City? | Shenzhen Travel Guide",
-    "channel": "Lucas Travel Guide",
-    "url": "https://www.youtube.com/watch?v=sp5mvlTEQ5k"
-   },
-   {
-    "videoId": "nmmHPzU1OPg",
-    "title": "Shenzhen Travel Guide 2026: First-Timer Tips & 3-Day Plan",
-    "channel": "1stTimeChina",
-    "url": "https://www.youtube.com/watch?v=nmmHPzU1OPg"
-   }
-  ]
- },
- {
-  "id": "Lianhua Mountain Park",
-  "name_en": "Lianhua Mountain Park",
-  "name_zh": "莲花山公园",
-  "category": "景点",
-  "lat": 22.5566275,
-  "lng": 114.0532386,
-  "recommendCount": 3,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "sp5mvlTEQ5k",
-    "title": "Shenzhen, China: Top 10 Places to Visit in 8K | World's Most Advanced City? | Shenzhen Travel Guide",
-    "channel": "Lucas Travel Guide",
-    "url": "https://www.youtube.com/watch?v=sp5mvlTEQ5k"
-   },
-   {
-    "videoId": "tqNs8ID1Vvo",
-    "title": "🔥Shenzhen TOP 10 MUST-SEE Spots! #travel #china #chinatravel #shenzhen #city #mustsee #tour #guide",
-    "channel": "gotochinanow",
-    "url": "https://www.youtube.com/watch?v=tqNs8ID1Vvo"
-   },
-   {
-    "videoId": "48WdZlVSnm8",
-    "title": "10 Best Places to Visit in SHENZHEN 2026 | China Travel Guide",
-    "channel": "TRIP XTREME",
-    "url": "https://www.youtube.com/watch?v=48WdZlVSnm8"
-   }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Hillside botanical garden with a large lake and the serene Hong Fa Temple."
  },
  {
   "id": "Shenzhen Museum",
@@ -795,59 +1001,63 @@
     "channel": "TRIP XTREME",
     "url": "https://www.youtube.com/watch?v=48WdZlVSnm8"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Free museum tracing the city's quick rise from fishing village to metropolis."
  },
  {
-  "id": "COCO Park",
-  "name_en": "COCO Park",
-  "name_zh": "购物公园",
-  "category": "商圈",
-  "lat": 22.5363888,
-  "lng": 114.0488652,
+  "id": "Gankeng Hakka Town",
+  "name_en": "Gankeng Hakka Town",
+  "name_zh": "甘坑客家小镇",
+  "category": "景点",
+  "lat": 22.6589693,
+  "lng": 114.0995854,
   "recommendCount": 3,
   "area": "深圳",
   "videos": [
    {
-    "videoId": "Q9JKqsWfeuQ",
-    "title": "Top 10 Best Things to do in Shenzhen, China [Shenzhen Travel Guide 2026]",
-    "channel": "Vacation Idea",
-    "url": "https://www.youtube.com/watch?v=Q9JKqsWfeuQ"
+    "videoId": "8AGxxMjAhXE",
+    "title": "Shenzhen China Travel Guide 2026 🇨🇳 | Inside China's MOST Futuristic City",
+    "channel": "PhatLife Project",
+    "url": "https://www.youtube.com/watch?v=8AGxxMjAhXE"
    },
    {
-    "videoId": "yB_mEPdY8xk",
-    "title": "2 Days in Shenzhen, China - The Perfect Itinerary!",
-    "channel": "Town Travel Tips",
-    "url": "https://www.youtube.com/watch?v=yB_mEPdY8xk"
+    "videoId": "tRkUZ4wyYuo",
+    "title": "Ultimate Shenzhen China TRAVEL GUIDE 🇨🇳",
+    "channel": "Our Roaming Empire",
+    "url": "https://www.youtube.com/watch?v=tRkUZ4wyYuo"
    },
    {
-    "videoId": "j2gsOknX1rM",
-    "title": "Shenzhen Vlog 🇨🇳 | dim sum, coco park, Mixc, dafen oil painting village, nantou ancient city",
-    "channel": "Sunny Side Singapore",
-    "url": "https://www.youtube.com/watch?v=j2gsOknX1rM"
+    "videoId": "sp5mvlTEQ5k",
+    "title": "Shenzhen, China: Top 10 Places to Visit in 8K | World's Most Advanced City? | Shenzhen Travel Guide",
+    "channel": "Lucas Travel Guide",
+    "url": "https://www.youtube.com/watch?v=sp5mvlTEQ5k"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Restored Hakka village with old lanes, snack stalls and a museum of local culture."
  },
  {
-  "id": "Huaqiangbei",
-  "name_en": "Huaqiangbei",
-  "name_zh": "华强北",
-  "category": "商圈",
-  "lat": 22.5448183,
-  "lng": 114.0815422,
+  "id": "DJI Sky City",
+  "name_en": "DJI Sky City",
+  "name_zh": "大疆天空之城",
+  "category": "景点",
+  "lat": 22.5803844,
+  "lng": 113.9379775,
   "recommendCount": 3,
   "area": "深圳",
   "videos": [
    {
-    "videoId": "XasHHRRJrfU",
-    "title": "Discover  Shenzhen, China 🇨🇳 charm: Ultimate 4-day travel guide",
-    "channel": "Top3Videos",
-    "url": "https://www.youtube.com/watch?v=XasHHRRJrfU"
+    "videoId": "DfUE-4GSLZc",
+    "title": "10 must visit places in Shenzhen！",
+    "channel": "traveltoqin",
+    "url": "https://www.youtube.com/watch?v=DfUE-4GSLZc"
    },
    {
-    "videoId": "nmmHPzU1OPg",
-    "title": "Shenzhen Travel Guide 2026: First-Timer Tips & 3-Day Plan",
-    "channel": "1stTimeChina",
-    "url": "https://www.youtube.com/watch?v=nmmHPzU1OPg"
+    "videoId": "BDkjb-wC-k0",
+    "title": "10 must visit places in Shenzhen！",
+    "channel": "traveltoqin",
+    "url": "https://www.youtube.com/watch?v=BDkjb-wC-k0"
    },
    {
     "videoId": "P7W20hdgWXY",
@@ -855,91 +1065,35 @@
     "channel": "CoolVision",
     "url": "https://www.youtube.com/watch?v=P7W20hdgWXY"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "DJI's futuristic twin-tower headquarters, an icon of Shenzhen's tech scene."
  },
  {
-  "id": "Nantou Ancient Town",
-  "name_en": "Nantou Ancient Town",
-  "name_zh": "南头古城",
+  "id": "Houhai",
+  "name_en": "Houhai",
+  "name_zh": "后海",
   "category": "景点",
-  "lat": 22.5439052,
-  "lng": 113.9150596,
+  "lat": 22.5463106,
+  "lng": 113.881011,
   "recommendCount": 3,
   "area": "深圳",
   "videos": [
    {
-    "videoId": "cMEm7Vl3cKA",
-    "title": "3 days in shenzhen (china's futuristic city)",
-    "channel": "Sam and Victor",
-    "url": "https://www.youtube.com/watch?v=cMEm7Vl3cKA"
+    "videoId": "sp5mvlTEQ5k",
+    "title": "Shenzhen, China: Top 10 Places to Visit in 8K | World's Most Advanced City? | Shenzhen Travel Guide",
+    "channel": "Lucas Travel Guide",
+    "url": "https://www.youtube.com/watch?v=sp5mvlTEQ5k"
    },
    {
-    "videoId": "P7W20hdgWXY",
-    "title": "I spent 4 days in China’s Most Futuristic City",
-    "channel": "CoolVision",
-    "url": "https://www.youtube.com/watch?v=P7W20hdgWXY"
-   },
-   {
-    "videoId": "rTAXOiuRF1Q",
-    "title": "An art, food and culture lover's guide to Shenzhen 🇨🇳 | China Travel 2026",
-    "channel": "Sketch and Run",
-    "url": "https://www.youtube.com/watch?v=rTAXOiuRF1Q"
+    "videoId": "8AGxxMjAhXE",
+    "title": "Shenzhen China Travel Guide 2026 🇨🇳 | Inside China's MOST Futuristic City",
+    "channel": "PhatLife Project",
+    "url": "https://www.youtube.com/watch?v=8AGxxMjAhXE"
    }
-  ]
- },
- {
-  "id": "Shenzhen Bay Culture Square",
-  "name_en": "Shenzhen Bay Culture Square",
-  "name_zh": "深圳湾文化广场",
-  "category": "景点",
-  "lat": 22.5153022,
-  "lng": 113.9404676,
-  "recommendCount": 3,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "cMEm7Vl3cKA",
-    "title": "3 days in shenzhen (china's futuristic city)",
-    "channel": "Sam and Victor",
-    "url": "https://www.youtube.com/watch?v=cMEm7Vl3cKA"
-   },
-   {
-    "videoId": "cV7gk72NOcE",
-    "title": "I Can't Believe What China Built in Shenzhen...",
-    "channel": "Living in China",
-    "url": "https://www.youtube.com/watch?v=cV7gk72NOcE"
-   },
-   {
-    "videoId": "fphsGZjHumg",
-    "title": "My HK friends kept telling me to do this so I did it",
-    "channel": "Joy | theshbang",
-    "url": "https://www.youtube.com/watch?v=fphsGZjHumg"
-   }
-  ]
- },
- {
-  "id": "Ping An Tower",
-  "name_en": "Ping An Tower",
-  "name_zh": "平安金融中心",
-  "category": "景点",
-  "lat": 22.5367317,
-  "lng": 114.0503552,
-  "recommendCount": 2,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "1iFGAGWDIps",
-    "title": "Best Things To Do in Shenzhen China Travel Guide 2026 4K",
-    "channel": "Island Hopper TV",
-    "url": "https://www.youtube.com/watch?v=1iFGAGWDIps"
-   },
-   {
-    "videoId": "j2gsOknX1rM",
-    "title": "Shenzhen Vlog 🇨🇳 | dim sum, coco park, Mixc, dafen oil painting village, nantou ancient city",
-    "channel": "Sunny Side Singapore",
-    "url": "https://www.youtube.com/watch?v=j2gsOknX1rM"
-   }
-  ]
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Polished business district of malls, offices and waterfront dining in Nanshan."
  },
  {
   "id": "Dapeng Peninsula",
@@ -963,7 +1117,9 @@
     "channel": "1stTimeChina",
     "url": "https://www.youtube.com/watch?v=nmmHPzU1OPg"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Rugged coastal peninsula with Ming-era fort and East–West Chong hiking trail."
  },
  {
   "id": "Futian Station",
@@ -987,7 +1143,9 @@
     "channel": "NBS Travel",
     "url": "https://www.youtube.com/watch?v=JqnNTX_b-WA"
    }
-  ]
+  ],
+  "categoryEn": "Transport",
+  "desc": "Underground high-speed rail station; 14 minutes to Hong Kong's West Kowloon."
  },
  {
   "id": "West Kowloon Station",
@@ -1011,7 +1169,9 @@
     "channel": "NBS Travel",
     "url": "https://www.youtube.com/watch?v=JqnNTX_b-WA"
    }
-  ]
+  ],
+  "categoryEn": "Transport",
+  "desc": "Hong Kong's high-speed rail terminus — the gateway city for many Shenzhen day trips."
  },
  {
   "id": "Hongqiao Park",
@@ -1035,79 +1195,9 @@
     "channel": "Sam and Victor",
     "url": "https://www.youtube.com/watch?v=cMEm7Vl3cKA"
    }
-  ]
- },
- {
-  "id": "The MixC",
-  "name_en": "The MixC",
-  "name_zh": "万象城",
-  "category": "商圈",
-  "lat": 22.5424295,
-  "lng": 114.1057278,
-  "recommendCount": 2,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "V0mKD_Qx8AM",
-    "title": "4 Days in Shenzhen, China 2026 - A Travel Guide for First-Time Visitors",
-    "channel": "Lais",
-    "url": "https://www.youtube.com/watch?v=V0mKD_Qx8AM"
-   },
-   {
-    "videoId": "mYKzjiWoSrM",
-    "title": "Solo Trip to SHENZHEN vlog 🇨🇳 China Travel 2025 ✈️ Best SEAFOOD & Dimsum 🤤",
-    "channel": "Yul Daze",
-    "url": "https://www.youtube.com/watch?v=mYKzjiWoSrM"
-   }
-  ]
- },
- {
-  "id": "OCT-LOFT",
-  "name_en": "OCT-LOFT",
-  "name_zh": "华侨城创意文化园",
-  "category": "景点",
-  "lat": 22.5410941,
-  "lng": 113.9880328,
-  "recommendCount": 2,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "V0mKD_Qx8AM",
-    "title": "4 Days in Shenzhen, China 2026 - A Travel Guide for First-Time Visitors",
-    "channel": "Lais",
-    "url": "https://www.youtube.com/watch?v=V0mKD_Qx8AM"
-   },
-   {
-    "videoId": "P7W20hdgWXY",
-    "title": "I spent 4 days in China’s Most Futuristic City",
-    "channel": "CoolVision",
-    "url": "https://www.youtube.com/watch?v=P7W20hdgWXY"
-   }
-  ]
- },
- {
-  "id": "Dongmen Old Street",
-  "name_en": "Dongmen Old Street",
-  "name_zh": "东门老街",
-  "category": "商圈",
-  "lat": 22.556013,
-  "lng": 114.1146675,
-  "recommendCount": 2,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "V0mKD_Qx8AM",
-    "title": "4 Days in Shenzhen, China 2026 - A Travel Guide for First-Time Visitors",
-    "channel": "Lais",
-    "url": "https://www.youtube.com/watch?v=V0mKD_Qx8AM"
-   },
-   {
-    "videoId": "rTAXOiuRF1Q",
-    "title": "An art, food and culture lover's guide to Shenzhen 🇨🇳 | China Travel 2026",
-    "channel": "Sketch and Run",
-    "url": "https://www.youtube.com/watch?v=rTAXOiuRF1Q"
-   }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Park famous for its striking long red pedestrian bridge through the hills."
  },
  {
   "id": "Civic Center",
@@ -1131,7 +1221,9 @@
     "channel": "Our Roaming Empire",
     "url": "https://www.youtube.com/watch?v=tRkUZ4wyYuo"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Grand civic complex at the heart of Futian, with the city's light show viewpoint."
  },
  {
   "id": "Shenzhen Safari Park",
@@ -1155,7 +1247,9 @@
     "channel": "Travel Explorer",
     "url": "https://www.youtube.com/watch?v=npMnUCobcps"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Large safari park with animals and shows — a full-day family option."
  },
  {
   "id": "Luohu Commercial City",
@@ -1179,55 +1273,9 @@
     "channel": "Sky Travel",
     "url": "https://www.youtube.com/watch?v=MPSFmRPwvkM"
    }
-  ]
- },
- {
-  "id": "Gankeng Hakka Town",
-  "name_en": "Gankeng Hakka Town",
-  "name_zh": "甘坑客家小镇",
-  "category": "景点",
-  "lat": 22.6589693,
-  "lng": 114.0995854,
-  "recommendCount": 2,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "8AGxxMjAhXE",
-    "title": "Shenzhen China Travel Guide 2026 🇨🇳 | Inside China's MOST Futuristic City",
-    "channel": "PhatLife Project",
-    "url": "https://www.youtube.com/watch?v=8AGxxMjAhXE"
-   },
-   {
-    "videoId": "tRkUZ4wyYuo",
-    "title": "Ultimate Shenzhen China TRAVEL GUIDE 🇨🇳",
-    "channel": "Our Roaming Empire",
-    "url": "https://www.youtube.com/watch?v=tRkUZ4wyYuo"
-   }
-  ]
- },
- {
-  "id": "OCT Loft Creative Culture Park",
-  "name_en": "OCT Loft Creative Culture Park",
-  "name_zh": "华侨城创意文化园",
-  "category": "景点",
-  "lat": 22.5412214,
-  "lng": 113.9886215,
-  "recommendCount": 2,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "XasHHRRJrfU",
-    "title": "Discover  Shenzhen, China 🇨🇳 charm: Ultimate 4-day travel guide",
-    "channel": "Top3Videos",
-    "url": "https://www.youtube.com/watch?v=XasHHRRJrfU"
-   },
-   {
-    "videoId": "yB_mEPdY8xk",
-    "title": "2 Days in Shenzhen, China - The Perfect Itinerary!",
-    "channel": "Town Travel Tips",
-    "url": "https://www.youtube.com/watch?v=yB_mEPdY8xk"
-   }
-  ]
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Sprawling mall next to the Hong Kong border, known for tailoring and copy goods."
  },
  {
   "id": "UpperHills",
@@ -1251,7 +1299,9 @@
     "channel": "Via Li",
     "url": "https://www.youtube.com/watch?v=UtjSZzl5Zes"
    }
-  ]
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Modern mall complex connecting two towers, with rooftop dining and design stores."
  },
  {
   "id": "Zhuoyue Center",
@@ -1275,7 +1325,9 @@
     "channel": "traveltoqin",
     "url": "https://www.youtube.com/watch?v=BDkjb-wC-k0"
    }
-  ]
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Mall in the heart of Futian, handy for a meal between sights."
  },
  {
   "id": "Zhongshu Bookstore",
@@ -1299,31 +1351,61 @@
     "channel": "traveltoqin",
     "url": "https://www.youtube.com/watch?v=BDkjb-wC-k0"
    }
-  ]
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Instagram-famous bookstore with mirrored, maze-like interiors."
  },
  {
-  "id": "DJI Headquarters",
-  "name_en": "DJI Headquarters",
-  "name_zh": "大疆总部",
+  "id": "Dapeng Fortress",
+  "name_en": "Dapeng Fortress",
+  "name_zh": "大鹏所城",
   "category": "景点",
-  "lat": 22.5803844,
-  "lng": 113.9379775,
+  "lat": 22.5978742,
+  "lng": 114.507692,
   "recommendCount": 2,
   "area": "深圳",
   "videos": [
    {
-    "videoId": "DfUE-4GSLZc",
-    "title": "10 must visit places in Shenzhen！",
-    "channel": "traveltoqin",
-    "url": "https://www.youtube.com/watch?v=DfUE-4GSLZc"
+    "videoId": "1iFGAGWDIps",
+    "title": "Best Things To Do in Shenzhen China Travel Guide 2026 4K",
+    "channel": "Island Hopper TV",
+    "url": "https://www.youtube.com/watch?v=1iFGAGWDIps"
    },
    {
-    "videoId": "BDkjb-wC-k0",
-    "title": "10 must visit places in Shenzhen！",
-    "channel": "traveltoqin",
-    "url": "https://www.youtube.com/watch?v=BDkjb-wC-k0"
+    "videoId": "XasHHRRJrfU",
+    "title": "Discover  Shenzhen, China 🇨🇳 charm: Ultimate 4-day travel guide",
+    "channel": "Top3Videos",
+    "url": "https://www.youtube.com/watch?v=XasHHRRJrfU"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Well-preserved Ming-dynasty walled town, the city's historic coastal outpost."
+ },
+ {
+  "id": "Qianhai",
+  "name_en": "Qianhai",
+  "name_zh": "前海",
+  "category": "商圈",
+  "lat": 22.5351848,
+  "lng": 113.9077499,
+  "recommendCount": 2,
+  "area": "深圳",
+  "videos": [
+   {
+    "videoId": "P7W20hdgWXY",
+    "title": "I spent 4 days in China’s Most Futuristic City",
+    "channel": "CoolVision",
+    "url": "https://www.youtube.com/watch?v=P7W20hdgWXY"
+   },
+   {
+    "videoId": "j2gsOknX1rM",
+    "title": "Shenzhen Vlog 🇨🇳 | dim sum, coco park, Mixc, dafen oil painting village, nantou ancient city",
+    "channel": "Sunny Side Singapore",
+    "url": "https://www.youtube.com/watch?v=j2gsOknX1rM"
+   }
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Fast-developing waterfront financial district with modern architecture."
  },
  {
   "id": "Mangrove Park",
@@ -1341,25 +1423,9 @@
     "channel": "Island Hopper TV",
     "url": "https://www.youtube.com/watch?v=1iFGAGWDIps"
    }
-  ]
- },
- {
-  "id": "Coco Park",
-  "name_en": "Coco Park",
-  "name_zh": "购物公园",
-  "category": "商圈",
-  "lat": 22.5363888,
-  "lng": 114.0488652,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "1iFGAGWDIps",
-    "title": "Best Things To Do in Shenzhen China Travel Guide 2026 4K",
-    "channel": "Island Hopper TV",
-    "url": "https://www.youtube.com/watch?v=1iFGAGWDIps"
-   }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Coastal wetland park with boardwalks and migratory birds — calm and free."
  },
  {
   "id": "Hang Fa Temple",
@@ -1377,43 +1443,9 @@
     "channel": "Island Hopper TV",
     "url": "https://www.youtube.com/watch?v=1iFGAGWDIps"
    }
-  ]
- },
- {
-  "id": "Dapeng Fort",
-  "name_en": "Dapeng Fort",
-  "name_zh": "大鹏所城",
-  "category": "景点",
-  "lat": 22.5978742,
-  "lng": 114.507692,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "1iFGAGWDIps",
-    "title": "Best Things To Do in Shenzhen China Travel Guide 2026 4K",
-    "channel": "Island Hopper TV",
-    "url": "https://www.youtube.com/watch?v=1iFGAGWDIps"
-   }
-  ]
- },
- {
-  "id": "Shenzhen Bay Cultural Plaza",
-  "name_en": "Shenzhen Bay Cultural Plaza",
-  "name_zh": "深圳湾文化广场",
-  "category": "景点",
-  "lat": 22.5149417,
-  "lng": 113.9400297,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "V0mKD_Qx8AM",
-    "title": "4 Days in Shenzhen, China 2026 - A Travel Guide for First-Time Visitors",
-    "channel": "Lais",
-    "url": "https://www.youtube.com/watch?v=V0mKD_Qx8AM"
-   }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Large Buddhist temple in the hills beside Fairy Lake, lively on festival days."
  },
  {
   "id": "Shuiwei Night Market",
@@ -1431,7 +1463,9 @@
     "channel": "Lais",
     "url": "https://www.youtube.com/watch?v=V0mKD_Qx8AM"
    }
-  ]
+  ],
+  "categoryEn": "Food & drink",
+  "desc": "Lively night market of cheap skewers and late-night snacks in Futian."
  },
  {
   "id": "Shenzhen Library",
@@ -1449,43 +1483,9 @@
     "channel": "Lais",
     "url": "https://www.youtube.com/watch?v=V0mKD_Qx8AM"
    }
-  ]
- },
- {
-  "id": "OH Bay",
-  "name_en": "OH Bay",
-  "name_zh": "后海湾",
-  "category": "景点",
-  "lat": 22.5463106,
-  "lng": 113.881011,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "sp5mvlTEQ5k",
-    "title": "Shenzhen, China: Top 10 Places to Visit in 8K | World's Most Advanced City? | Shenzhen Travel Guide",
-    "channel": "Lucas Travel Guide",
-    "url": "https://www.youtube.com/watch?v=sp5mvlTEQ5k"
-   }
-  ]
- },
- {
-  "id": "Houhai",
-  "name_en": "Houhai",
-  "name_zh": "后海",
-  "category": "商圈",
-  "lat": 22.5206564,
-  "lng": 113.9384973,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "sp5mvlTEQ5k",
-    "title": "Shenzhen, China: Top 10 Places to Visit in 8K | World's Most Advanced City? | Shenzhen Travel Guide",
-    "channel": "Lucas Travel Guide",
-    "url": "https://www.youtube.com/watch?v=sp5mvlTEQ5k"
-   }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Striking modern library beside the Civic Center, open to visitors."
  },
  {
   "id": "Yantian Coastal Boardwalk",
@@ -1503,43 +1503,9 @@
     "channel": "Lucas Travel Guide",
     "url": "https://www.youtube.com/watch?v=sp5mvlTEQ5k"
    }
-  ]
- },
- {
-  "id": "Gankeng",
-  "name_en": "Gankeng",
-  "name_zh": "甘坑古镇",
-  "category": "景点",
-  "lat": 22.6503232,
-  "lng": 114.1009526,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "sp5mvlTEQ5k",
-    "title": "Shenzhen, China: Top 10 Places to Visit in 8K | World's Most Advanced City? | Shenzhen Travel Guide",
-    "channel": "Lucas Travel Guide",
-    "url": "https://www.youtube.com/watch?v=sp5mvlTEQ5k"
-   }
-  ]
- },
- {
-  "id": "OCT-LOFT Creative Culture Park",
-  "name_en": "OCT-LOFT Creative Culture Park",
-  "name_zh": "华侨城创意文化园",
-  "category": "景点",
-  "lat": 22.5412214,
-  "lng": 113.9886215,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "Q9JKqsWfeuQ",
-    "title": "Top 10 Best Things to do in Shenzhen, China [Shenzhen Travel Guide 2026]",
-    "channel": "Vacation Idea",
-    "url": "https://www.youtube.com/watch?v=Q9JKqsWfeuQ"
-   }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Scenic coastal walking path with sea cliffs, far less crowded than the city center."
  },
  {
   "id": "OCT East",
@@ -1557,7 +1523,9 @@
     "channel": "Vacation Idea",
     "url": "https://www.youtube.com/watch?v=Q9JKqsWfeuQ"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Hillside resort park with themed villages, gardens and cable-car views."
  },
  {
   "id": "Juediao Sand Beach",
@@ -1575,7 +1543,9 @@
     "channel": "gotochinanow",
     "url": "https://www.youtube.com/watch?v=tqNs8ID1Vvo"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Clear-water crescent beach on the Dapeng coast, quieter than Dameisha."
  },
  {
   "id": "Shenzhen Observatory",
@@ -1593,7 +1563,9 @@
     "channel": "gotochinanow",
     "url": "https://www.youtube.com/watch?v=tqNs8ID1Vvo"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Hilltop observatory on Dapeng with sweeping coastal views; limited visiting hours."
  },
  {
   "id": "Chung Ying Street",
@@ -1611,61 +1583,9 @@
     "channel": "gotochinanow",
     "url": "https://www.youtube.com/watch?v=tqNs8ID1Vvo"
    }
-  ]
- },
- {
-  "id": "Houhai Nanshan",
-  "name_en": "Houhai Nanshan",
-  "name_zh": "后海南山",
-  "category": "商圈",
-  "lat": 22.5288729,
-  "lng": 113.9307471,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "8AGxxMjAhXE",
-    "title": "Shenzhen China Travel Guide 2026 🇨🇳 | Inside China's MOST Futuristic City",
-    "channel": "PhatLife Project",
-    "url": "https://www.youtube.com/watch?v=8AGxxMjAhXE"
-   }
-  ]
- },
- {
-  "id": "MixC Shenzhen Bay",
-  "name_en": "MixC Shenzhen Bay",
-  "name_zh": "深圳湾万象城",
-  "category": "商圈",
-  "lat": 22.5179038,
-  "lng": 113.9389111,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "8AGxxMjAhXE",
-    "title": "Shenzhen China Travel Guide 2026 🇨🇳 | Inside China's MOST Futuristic City",
-    "channel": "PhatLife Project",
-    "url": "https://www.youtube.com/watch?v=8AGxxMjAhXE"
-   }
-  ]
- },
- {
-  "id": "Shenzhen Talent Park",
-  "name_en": "Shenzhen Talent Park",
-  "name_zh": "人才公园",
-  "category": "景点",
-  "lat": 22.5136618,
-  "lng": 113.9441738,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "8AGxxMjAhXE",
-    "title": "Shenzhen China Travel Guide 2026 🇨🇳 | Inside China's MOST Futuristic City",
-    "channel": "PhatLife Project",
-    "url": "https://www.youtube.com/watch?v=8AGxxMjAhXE"
-   }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Historic border street split between Shenzhen and Hong Kong, now a shopping lane."
  },
  {
   "id": "Inno 100",
@@ -1683,7 +1603,9 @@
     "channel": "PhatLife Project",
     "url": "https://www.youtube.com/watch?v=8AGxxMjAhXE"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Landmark tower in the Talent Park area, part of the skyline photo circuit."
  },
  {
   "id": "Honglicun Rice Noodle Rolls",
@@ -1701,7 +1623,9 @@
     "channel": "PhatLife Project",
     "url": "https://www.youtube.com/watch?v=8AGxxMjAhXE"
    }
-  ]
+  ],
+  "categoryEn": "Food & drink",
+  "desc": "Local chain for Cantonese rice noodle rolls — a quick, cheap breakfast."
  },
  {
   "id": "Nanhai E-Cool",
@@ -1719,7 +1643,9 @@
     "channel": "PhatLife Project",
     "url": "https://www.youtube.com/watch?v=8AGxxMjAhXE"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Converted industrial lofts with cafés and design studios, low-key and walkable."
  },
  {
   "id": "Shenzhen Eye",
@@ -1737,7 +1663,9 @@
     "channel": "PhatLife Project",
     "url": "https://www.youtube.com/watch?v=8AGxxMjAhXE"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Dazzling underground metro concourse, famous for its rhythmic light installation."
  },
  {
   "id": "Shun Hing Square",
@@ -1755,7 +1683,9 @@
     "channel": "Top3Videos",
     "url": "https://www.youtube.com/watch?v=XasHHRRJrfU"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Landmark 1990s skyscraper with an observation deck in Luohu."
  },
  {
   "id": "Diwang Tower",
@@ -1773,25 +1703,9 @@
     "channel": "Top3Videos",
     "url": "https://www.youtube.com/watch?v=XasHHRRJrfU"
    }
-  ]
- },
- {
-  "id": "Dapeng Fortress",
-  "name_en": "Dapeng Fortress",
-  "name_zh": "大鹏所城",
-  "category": "景点",
-  "lat": 22.5978742,
-  "lng": 114.507692,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "XasHHRRJrfU",
-    "title": "Discover  Shenzhen, China 🇨🇳 charm: Ultimate 4-day travel guide",
-    "channel": "Top3Videos",
-    "url": "https://www.youtube.com/watch?v=XasHHRRJrfU"
-   }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Twin-tower landmark from Shenzhen's boom years, near Dongmen."
  },
  {
   "id": "Xichong",
@@ -1809,7 +1723,9 @@
     "channel": "Top3Videos",
     "url": "https://www.youtube.com/watch?v=XasHHRRJrfU"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Long, clean beach at the southern tip of Dapeng — popular for camping and sunrise."
  },
  {
   "id": "Chu Xiang Lou",
@@ -1827,7 +1743,9 @@
     "channel": "Yul Daze",
     "url": "https://www.youtube.com/watch?v=mYKzjiWoSrM"
    }
-  ]
+  ],
+  "categoryEn": "Food & drink",
+  "desc": "Hubei-style restaurant in Longgang, worth the trip for home-style dishes."
  },
  {
   "id": "Overseas Chinese Town",
@@ -1845,7 +1763,9 @@
     "channel": "Yul Daze",
     "url": "https://www.youtube.com/watch?v=mYKzjiWoSrM"
    }
-  ]
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Leafy district of resorts, galleries and themed parks in Nanshan."
  },
  {
   "id": "Phase Coffee",
@@ -1863,7 +1783,9 @@
     "channel": "Yul Daze",
     "url": "https://www.youtube.com/watch?v=mYKzjiWoSrM"
    }
-  ]
+  ],
+  "categoryEn": "Food & drink",
+  "desc": "Independent specialty coffee stop popular with local café hoppers."
  },
  {
   "id": "MH Mall",
@@ -1881,25 +1803,9 @@
     "channel": "Travel Explorer",
     "url": "https://www.youtube.com/watch?v=npMnUCobcps"
    }
-  ]
- },
- {
-  "id": "Shekou Sea World",
-  "name_en": "Shekou Sea World",
-  "name_zh": "蛇口海上世界",
-  "category": "商圈",
-  "lat": 22.4850058,
-  "lng": 113.9126538,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "npMnUCobcps",
-    "title": "Top 10 Best Things To do in Shenzhen, China [Shenzhen Travel Guide 2025]",
-    "channel": "Travel Explorer",
-    "url": "https://www.youtube.com/watch?v=npMnUCobcps"
-   }
-  ]
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Central mall near the Convention Center, convenient for a break from sightseeing."
  },
  {
   "id": "Shenzhen Light Show",
@@ -1917,7 +1823,9 @@
     "channel": "Our Roaming Empire",
     "url": "https://www.youtube.com/watch?v=tRkUZ4wyYuo"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Free evening light spectacle across the Futian skyline — best from Lianhuashan Park."
  },
  {
   "id": "MOCAPE",
@@ -1935,7 +1843,9 @@
     "channel": "Town Travel Tips",
     "url": "https://www.youtube.com/watch?v=yB_mEPdY8xk"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Museum of Contemporary Art & Planning Exhibition, next to the Civic Center."
  },
  {
   "id": "Laurel Restaurant",
@@ -1953,61 +1863,9 @@
     "channel": "Town Travel Tips",
     "url": "https://www.youtube.com/watch?v=yB_mEPdY8xk"
    }
-  ]
- },
- {
-  "id": "SeaWorld",
-  "name_en": "SeaWorld",
-  "name_zh": "海上世界",
-  "category": "商圈",
-  "lat": 22.4881293,
-  "lng": 113.9101589,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "yB_mEPdY8xk",
-    "title": "2 Days in Shenzhen, China - The Perfect Itinerary!",
-    "channel": "Town Travel Tips",
-    "url": "https://www.youtube.com/watch?v=yB_mEPdY8xk"
-   }
-  ]
- },
- {
-  "id": "Huaqiangbei Electronics Market",
-  "name_en": "Huaqiangbei Electronics Market",
-  "name_zh": "华强北电子市场",
-  "category": "商圈",
-  "lat": 22.5439509,
-  "lng": 114.0821952,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "yB_mEPdY8xk",
-    "title": "2 Days in Shenzhen, China - The Perfect Itinerary!",
-    "channel": "Town Travel Tips",
-    "url": "https://www.youtube.com/watch?v=yB_mEPdY8xk"
-   }
-  ]
- },
- {
-  "id": "Lotus Hill Park",
-  "name_en": "Lotus Hill Park",
-  "name_zh": "莲花山公园",
-  "category": "景点",
-  "lat": 22.5566275,
-  "lng": 114.0532386,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "yB_mEPdY8xk",
-    "title": "2 Days in Shenzhen, China - The Perfect Itinerary!",
-    "channel": "Town Travel Tips",
-    "url": "https://www.youtube.com/watch?v=yB_mEPdY8xk"
-   }
-  ]
+  ],
+  "categoryEn": "Food & drink",
+  "desc": "Long-running Cantonese restaurant near Sea World, known for dim sum."
  },
  {
   "id": "Haidilao",
@@ -2025,7 +1883,9 @@
     "channel": "Town Travel Tips",
     "url": "https://www.youtube.com/watch?v=yB_mEPdY8xk"
    }
-  ]
+  ],
+  "categoryEn": "Food & drink",
+  "desc": "Famous hotpot chain with famously attentive service — a reliable group dinner."
  },
  {
   "id": "Yuan Gu",
@@ -2043,7 +1903,9 @@
     "channel": "Sam and Victor",
     "url": "https://www.youtube.com/watch?v=cMEm7Vl3cKA"
    }
-  ]
+  ],
+  "categoryEn": "Food & drink",
+  "desc": "Quiet tea-and-dessert spot near Nantou Ancient City."
  },
  {
   "id": "24 Histories Academy",
@@ -2061,7 +1923,9 @@
     "channel": "Sam and Victor",
     "url": "https://www.youtube.com/watch?v=cMEm7Vl3cKA"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Bookish cultural compound themed on China's 24 official histories."
  },
  {
   "id": "Mandarin Oriental",
@@ -2079,7 +1943,9 @@
     "channel": "Sam and Victor",
     "url": "https://www.youtube.com/watch?v=cMEm7Vl3cKA"
    }
-  ]
+  ],
+  "categoryEn": "Other",
+  "desc": "Luxury hotel near Shenzhen Bay, known for its dim sum restaurant."
  },
  {
   "id": "Gangxia North Station",
@@ -2097,7 +1963,9 @@
     "channel": "Living in China",
     "url": "https://www.youtube.com/watch?v=cV7gk72NOcE"
    }
-  ]
+  ],
+  "categoryEn": "Transport",
+  "desc": "Huge underground metro hub nicknamed the 'Eye of Shenzhen' for its design."
  },
  {
   "id": "Xiaomeisha Beach",
@@ -2115,7 +1983,9 @@
     "channel": "Sky Travel",
     "url": "https://www.youtube.com/watch?v=MPSFmRPwvkM"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Beach resort east of Dameisha, quieter with a more local feel."
  },
  {
   "id": "Nanshan Mountains",
@@ -2133,7 +2003,9 @@
     "channel": "Sky Travel",
     "url": "https://www.youtube.com/watch?v=MPSFmRPwvkM"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Green hills rising behind Nanshan district, good for an easy hike."
  },
  {
   "id": "Meridian View Centre",
@@ -2151,43 +2023,9 @@
     "channel": "Sky Travel",
     "url": "https://www.youtube.com/watch?v=MPSFmRPwvkM"
    }
-  ]
- },
- {
-  "id": "Ping An IFC",
-  "name_en": "Ping An IFC",
-  "name_zh": "平安金融中心",
-  "category": "景点",
-  "lat": 22.5364119,
-  "lng": 114.0504709,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "MPSFmRPwvkM",
-    "title": "10 Things to See and Do in Shenzhen, China | Travel Video | Travel Guide | SKY Travel",
-    "channel": "Sky Travel",
-    "url": "https://www.youtube.com/watch?v=MPSFmRPwvkM"
-   }
-  ]
- },
- {
-  "id": "Futian",
-  "name_en": "Futian",
-  "name_zh": "福田",
-  "category": "商圈",
-  "lat": 22.5243632,
-  "lng": 114.049894,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "P7W20hdgWXY",
-    "title": "I spent 4 days in China’s Most Futuristic City",
-    "channel": "CoolVision",
-    "url": "https://www.youtube.com/watch?v=P7W20hdgWXY"
-   }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Tall tower in Luohu with a high observation deck and skyline views."
  },
  {
   "id": "Nanshan",
@@ -2205,25 +2043,9 @@
     "channel": "CoolVision",
     "url": "https://www.youtube.com/watch?v=P7W20hdgWXY"
    }
-  ]
- },
- {
-  "id": "DJI Sky City",
-  "name_en": "DJI Sky City",
-  "name_zh": "大疆天空之城",
-  "category": "景点",
-  "lat": 22.5803844,
-  "lng": 113.9379775,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "P7W20hdgWXY",
-    "title": "I spent 4 days in China’s Most Futuristic City",
-    "channel": "CoolVision",
-    "url": "https://www.youtube.com/watch?v=P7W20hdgWXY"
-   }
-  ]
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Tech-and-design district of malls, startups and the coastal Talent Park."
  },
  {
   "id": "Tencent Seafront Tower",
@@ -2241,7 +2063,9 @@
     "channel": "CoolVision",
     "url": "https://www.youtube.com/watch?v=P7W20hdgWXY"
    }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Tencent's twin-tower headquarters, a landmark of Shenzhen's internet industry."
  },
  {
   "id": "Shekou",
@@ -2259,25 +2083,9 @@
     "channel": "CoolVision",
     "url": "https://www.youtube.com/watch?v=P7W20hdgWXY"
    }
-  ]
- },
- {
-  "id": "Qianhai",
-  "name_en": "Qianhai",
-  "name_zh": "前海",
-  "category": "商圈",
-  "lat": 22.5351848,
-  "lng": 113.9077499,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "P7W20hdgWXY",
-    "title": "I spent 4 days in China’s Most Futuristic City",
-    "channel": "CoolVision",
-    "url": "https://www.youtube.com/watch?v=P7W20hdgWXY"
-   }
-  ]
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Cosmopolitan waterfront neighborhood with expat bars, cafés and ferry links."
  },
  {
   "id": "Luohu",
@@ -2295,7 +2103,9 @@
     "channel": "Sunny Side Singapore",
     "url": "https://www.youtube.com/watch?v=j2gsOknX1rM"
    }
-  ]
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Shenzhen's original downtown, dense with malls and the border crossing to Hong Kong."
  },
  {
   "id": "Dian Dou De",
@@ -2313,43 +2123,9 @@
     "channel": "Sunny Side Singapore",
     "url": "https://www.youtube.com/watch?v=j2gsOknX1rM"
    }
-  ]
- },
- {
-  "id": "Qianhai Harbour",
-  "name_en": "Qianhai Harbour",
-  "name_zh": "前海",
-  "category": "商圈",
-  "lat": 22.5418643,
-  "lng": 113.9005429,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "j2gsOknX1rM",
-    "title": "Shenzhen Vlog 🇨🇳 | dim sum, coco park, Mixc, dafen oil painting village, nantou ancient city",
-    "channel": "Sunny Side Singapore",
-    "url": "https://www.youtube.com/watch?v=j2gsOknX1rM"
-   }
-  ]
- },
- {
-  "id": "MixC",
-  "name_en": "MixC",
-  "name_zh": "万象城",
-  "category": "商圈",
-  "lat": 22.534334,
-  "lng": 113.8945014,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "j2gsOknX1rM",
-    "title": "Shenzhen Vlog 🇨🇳 | dim sum, coco park, Mixc, dafen oil painting village, nantou ancient city",
-    "channel": "Sunny Side Singapore",
-    "url": "https://www.youtube.com/watch?v=j2gsOknX1rM"
-   }
-  ]
+  ],
+  "categoryEn": "Food & drink",
+  "desc": "Well-liked dim sum chain — a safe bet for a Cantonese breakfast."
  },
  {
   "id": "Zhongshan Park",
@@ -2367,42 +2143,8 @@
     "channel": "Sunny Side Singapore",
     "url": "https://www.youtube.com/watch?v=j2gsOknX1rM"
    }
-  ]
- },
- {
-  "id": "Shenzhen Sea World",
-  "name_en": "Shenzhen Sea World",
-  "name_zh": "海上世界",
-  "category": "商圈",
-  "lat": 22.6065074,
-  "lng": 114.3265184,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "48WdZlVSnm8",
-    "title": "10 Best Places to Visit in SHENZHEN 2026 | China Travel Guide",
-    "channel": "TRIP XTREME",
-    "url": "https://www.youtube.com/watch?v=48WdZlVSnm8"
-   }
-  ]
- },
- {
-  "id": "MixC Shenzhen",
-  "name_en": "MixC Shenzhen",
-  "name_zh": "万象城",
-  "category": "商圈",
-  "lat": 22.544336,
-  "lng": 114.1048339,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "rTAXOiuRF1Q",
-    "title": "An art, food and culture lover's guide to Shenzhen 🇨🇳 | China Travel 2026",
-    "channel": "Sketch and Run",
-    "url": "https://www.youtube.com/watch?v=rTAXOiuRF1Q"
-   }
-  ]
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Large, shaded park in Nanshan, popular with families and joggers."
  }
 ]
