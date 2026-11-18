@@ -6,7 +6,7 @@
   "category": "商圈",
   "lat": 22.5461164,
   "lng": 114.1129238,
-  "recommendCount": 12,
+  "recommendCount": 8,
   "area": "深圳",
   "videos": [
    {
@@ -23,7 +23,7 @@
     "channel": "Heather's diary",
     "url": "https://www.youtube.com/watch?v=n110MY5IzyE",
     "viewCount": 250567,
-    "ts": null
+    "ts": 440
    },
    {
     "videoId": "XGMuiHv0BHw",
@@ -39,7 +39,7 @@
     "channel": "Summer Channel",
     "url": "https://www.youtube.com/watch?v=OcOQ8E1CnCw",
     "viewCount": 230457,
-    "ts": null
+    "ts": 925
    },
    {
     "videoId": "L9rCCw_aEaM",
@@ -47,7 +47,7 @@
     "channel": "DarrenW",
     "url": "https://www.youtube.com/watch?v=L9rCCw_aEaM",
     "viewCount": 199357,
-    "ts": null
+    "ts": 1120
    },
    {
     "videoId": "WAAe5l13NJ0",
@@ -55,22 +55,23 @@
     "channel": "Why Tan",
     "url": "https://www.youtube.com/watch?v=WAAe5l13NJ0",
     "viewCount": 77265,
-    "ts": null
+    "ts": 364
    },
    {
-    "videoId": "Q9JKqsWfeuQ",
-    "title": "Top 10 Best Things to do in Shenzhen, China [Shenzhen Travel Guide 2026]",
-    "channel": "Vacation Idea",
-    "url": "https://www.youtube.com/watch?v=Q9JKqsWfeuQ",
-    "viewCount": 0
+    "videoId": "CNRnqos0aMw",
+    "title": "Shenzhen: Must-Try Street Food & Local Eats You Can’t Miss! 深圳必吃美食全攻略 4K",
+    "channel": "iamestherm",
+    "url": "https://www.youtube.com/watch?v=CNRnqos0aMw",
+    "viewCount": 20102,
+    "ts": 648
    },
    {
-    "videoId": "8AGxxMjAhXE",
-    "title": "Shenzhen China Travel Guide 2026 🇨🇳 | Inside China's MOST Futuristic City",
-    "channel": "PhatLife Project",
-    "url": "https://www.youtube.com/watch?v=8AGxxMjAhXE",
-    "ts": 607,
-    "viewCount": 0
+    "videoId": "8fYdHMRR0ag",
+    "title": "[HD][CC] Shenzhen, Guangzhou vlog (w/CC) (深圳、广州一人游) (中文CC)",
+    "channel": "thesololady",
+    "url": "https://www.youtube.com/watch?v=8fYdHMRR0ag",
+    "viewCount": 1662,
+    "ts": 163
    }
   ],
   "categoryEn": "Shopping",
@@ -83,7 +84,7 @@
   "category": "景点",
   "lat": 22.5410941,
   "lng": 113.9880328,
-  "recommendCount": 10,
+  "recommendCount": 8,
   "area": "深圳",
   "videos": [
    {
@@ -92,7 +93,7 @@
     "channel": "DarrenW",
     "url": "https://www.youtube.com/watch?v=L9rCCw_aEaM",
     "viewCount": 199357,
-    "ts": null
+    "ts": 1861
    },
    {
     "videoId": "XasHHRRJrfU",
@@ -159,7 +160,7 @@
   "category": "商圈",
   "lat": 22.4881293,
   "lng": 113.9101589,
-  "recommendCount": 10,
+  "recommendCount": 8,
   "area": "深圳",
   "videos": [
    {
@@ -168,7 +169,7 @@
     "channel": "Summer Channel",
     "url": "https://www.youtube.com/watch?v=OcOQ8E1CnCw",
     "viewCount": 230457,
-    "ts": null
+    "ts": 717
    },
    {
     "videoId": "L9rCCw_aEaM",
@@ -176,7 +177,7 @@
     "channel": "DarrenW",
     "url": "https://www.youtube.com/watch?v=L9rCCw_aEaM",
     "viewCount": 199357,
-    "ts": null
+    "ts": 1882
    },
    {
     "videoId": "WAAe5l13NJ0",
@@ -184,7 +185,7 @@
     "channel": "Why Tan",
     "url": "https://www.youtube.com/watch?v=WAAe5l13NJ0",
     "viewCount": 77265,
-    "ts": null
+    "ts": 1425
    },
    {
     "videoId": "npMnUCobcps",
@@ -193,6 +194,14 @@
     "url": "https://www.youtube.com/watch?v=npMnUCobcps",
     "viewCount": 63480,
     "ts": 404
+   },
+   {
+    "videoId": "vXevIa9wv34",
+    "title": "Shenzhen Travel Vlog 2026 Part 1| Family Trip Guide + Food + Attractions 深圳四天三夜行程｜景点、美食、住宿一次看",
+    "channel": "Daniel Liew",
+    "url": "https://www.youtube.com/watch?v=vXevIa9wv34",
+    "viewCount": 3437,
+    "ts": null
    },
    {
     "videoId": "1iFGAGWDIps",
@@ -216,14 +225,6 @@
     "channel": "Top3Videos",
     "url": "https://www.youtube.com/watch?v=XasHHRRJrfU",
     "viewCount": 0
-   },
-   {
-    "videoId": "mYKzjiWoSrM",
-    "title": "Solo Trip to SHENZHEN vlog 🇨🇳 China Travel 2025 ✈️ Best SEAFOOD & Dimsum 🤤",
-    "channel": "Yul Daze",
-    "url": "https://www.youtube.com/watch?v=mYKzjiWoSrM",
-    "ts": 158,
-    "viewCount": 0
    }
   ],
   "categoryEn": "Shopping",
@@ -236,7 +237,7 @@
   "category": "景点",
   "lat": 22.5403527,
   "lng": 113.9194304,
-  "recommendCount": 10,
+  "recommendCount": 8,
   "area": "深圳",
   "videos": [
    {
@@ -253,7 +254,7 @@
     "channel": "Summer Channel",
     "url": "https://www.youtube.com/watch?v=OcOQ8E1CnCw",
     "viewCount": 230457,
-    "ts": null
+    "ts": 730
    },
    {
     "videoId": "WAAe5l13NJ0",
@@ -261,7 +262,7 @@
     "channel": "Why Tan",
     "url": "https://www.youtube.com/watch?v=WAAe5l13NJ0",
     "viewCount": 77265,
-    "ts": null
+    "ts": 1108
    },
    {
     "videoId": "rGNshmljVuE",
@@ -270,6 +271,22 @@
     "url": "https://www.youtube.com/watch?v=rGNshmljVuE",
     "viewCount": 38246,
     "ts": 902
+   },
+   {
+    "videoId": "gz6gCozMLyM",
+    "title": "12 hours in Shenzhen 🇨🇳 深圳 (food hunt, city walk, trendiest cafe)",
+    "channel": "Jeff and Timmy",
+    "url": "https://www.youtube.com/watch?v=gz6gCozMLyM",
+    "viewCount": 15466,
+    "ts": 292
+   },
+   {
+    "videoId": "_lofy-CHkKA",
+    "title": "［深圳] Shenzhen 2D1N Trip Itinerary 旅游行程",
+    "channel": "brewed by the sea",
+    "url": "https://www.youtube.com/watch?v=_lofy-CHkKA",
+    "viewCount": 689,
+    "ts": 176
    },
    {
     "videoId": "V0mKD_Qx8AM",
@@ -285,22 +302,6 @@
     "channel": "gotochinanow",
     "url": "https://www.youtube.com/watch?v=tqNs8ID1Vvo",
     "viewCount": 0
-   },
-   {
-    "videoId": "nmmHPzU1OPg",
-    "title": "Shenzhen Travel Guide 2026: First-Timer Tips & 3-Day Plan",
-    "channel": "1stTimeChina",
-    "url": "https://www.youtube.com/watch?v=nmmHPzU1OPg",
-    "ts": 196,
-    "viewCount": 0
-   },
-   {
-    "videoId": "j2gsOknX1rM",
-    "title": "Shenzhen Vlog 🇨🇳 | dim sum, coco park, Mixc, dafen oil painting village, nantou ancient city",
-    "channel": "Sunny Side Singapore",
-    "url": "https://www.youtube.com/watch?v=j2gsOknX1rM",
-    "ts": 572,
-    "viewCount": 0
    }
   ],
   "categoryEn": "Attractions",
@@ -313,7 +314,7 @@
   "category": "景点",
   "lat": 22.5364119,
   "lng": 114.0504709,
-  "recommendCount": 10,
+  "recommendCount": 8,
   "area": "深圳",
   "videos": [
    {
@@ -330,7 +331,7 @@
     "channel": "iamestherm",
     "url": "https://www.youtube.com/watch?v=CNRnqos0aMw",
     "viewCount": 20102,
-    "ts": null
+    "ts": 720
    },
    {
     "videoId": "HIZvcXaGjm4",
@@ -388,7 +389,7 @@
   "category": "景点",
   "lat": 22.5943615,
   "lng": 114.3026411,
-  "recommendCount": 10,
+  "recommendCount": 8,
   "area": "深圳",
   "videos": [
    {
@@ -397,7 +398,7 @@
     "channel": "Summer Channel",
     "url": "https://www.youtube.com/watch?v=OcOQ8E1CnCw",
     "viewCount": 230457,
-    "ts": null
+    "ts": 336
    },
    {
     "videoId": "WAAe5l13NJ0",
@@ -405,7 +406,7 @@
     "channel": "Why Tan",
     "url": "https://www.youtube.com/watch?v=WAAe5l13NJ0",
     "viewCount": 77265,
-    "ts": null
+    "ts": 574
    },
    {
     "videoId": "ZtF-JAdiW0c",
@@ -465,7 +466,7 @@
   "category": "商圈",
   "lat": 22.5449333,
   "lng": 113.9511274,
-  "recommendCount": 10,
+  "recommendCount": 8,
   "area": "深圳",
   "videos": [
    {
@@ -474,7 +475,7 @@
     "channel": "Heather's diary",
     "url": "https://www.youtube.com/watch?v=n110MY5IzyE",
     "viewCount": 250567,
-    "ts": null
+    "ts": 579
    },
    {
     "videoId": "OcOQ8E1CnCw",
@@ -482,7 +483,15 @@
     "channel": "Summer Channel",
     "url": "https://www.youtube.com/watch?v=OcOQ8E1CnCw",
     "viewCount": 230457,
-    "ts": null
+    "ts": 837
+   },
+   {
+    "videoId": "XjqQaoACmM0",
+    "title": "【广东】深圳3天2晚玩什么？从未来科技到人间烟火，48小时极限打卡16个吃喝玩乐新体验 | 无人驾驶网约车 | 无人机外卖 | 机器人咖啡 | UFO餐厅 | 巨人展 | 烧鹅濑粉 | 深圳海鲜",
+    "channel": "应小文",
+    "url": "https://www.youtube.com/watch?v=XjqQaoACmM0",
+    "viewCount": 225324,
+    "ts": 1225
    },
    {
     "videoId": "L9rCCw_aEaM",
@@ -517,19 +526,12 @@
     "ts": null
    },
    {
-    "videoId": "8AGxxMjAhXE",
-    "title": "Shenzhen China Travel Guide 2026 🇨🇳 | Inside China's MOST Futuristic City",
-    "channel": "PhatLife Project",
-    "url": "https://www.youtube.com/watch?v=8AGxxMjAhXE",
-    "ts": 392,
-    "viewCount": 0
-   },
-   {
-    "videoId": "DfUE-4GSLZc",
-    "title": "10 must visit places in Shenzhen！",
-    "channel": "traveltoqin",
-    "url": "https://www.youtube.com/watch?v=DfUE-4GSLZc",
-    "viewCount": 0
+    "videoId": "gz6gCozMLyM",
+    "title": "12 hours in Shenzhen 🇨🇳 深圳 (food hunt, city walk, trendiest cafe)",
+    "channel": "Jeff and Timmy",
+    "url": "https://www.youtube.com/watch?v=gz6gCozMLyM",
+    "viewCount": 15466,
+    "ts": 484
    }
   ],
   "categoryEn": "Shopping",
@@ -542,7 +544,7 @@
   "category": "景点",
   "lat": 22.5148809,
   "lng": 113.9383043,
-  "recommendCount": 10,
+  "recommendCount": 8,
   "area": "深圳",
   "videos": [
    {
@@ -620,7 +622,7 @@
   "category": "商圈",
   "lat": 22.5448183,
   "lng": 114.0815422,
-  "recommendCount": 10,
+  "recommendCount": 8,
   "area": "深圳",
   "videos": [
    {
@@ -637,7 +639,7 @@
     "channel": "Heather's diary",
     "url": "https://www.youtube.com/watch?v=n110MY5IzyE",
     "viewCount": 250567,
-    "ts": null
+    "ts": 246
    },
    {
     "videoId": "XjqQaoACmM0",
@@ -645,7 +647,7 @@
     "channel": "应小文 Wen To Travel",
     "url": "https://www.youtube.com/watch?v=XjqQaoACmM0",
     "viewCount": 225324,
-    "ts": null
+    "ts": 1623
    },
    {
     "videoId": "L9rCCw_aEaM",
@@ -653,7 +655,7 @@
     "channel": "DarrenW",
     "url": "https://www.youtube.com/watch?v=L9rCCw_aEaM",
     "viewCount": 199357,
-    "ts": null
+    "ts": 1008
    },
    {
     "videoId": "uBfBYKd85ew",
@@ -662,6 +664,14 @@
     "url": "https://www.youtube.com/watch?v=uBfBYKd85ew",
     "viewCount": 181089,
     "ts": null
+   },
+   {
+    "videoId": "UmmUj5i0esY",
+    "title": "[神州穿梭.深圳#1249] 新皇崗口岸 周邊全攻略 5站掃勻深圳美食 超市 街市 商場 10月12日正式開通",
+    "channel": "Data Ma",
+    "url": "https://www.youtube.com/watch?v=UmmUj5i0esY",
+    "viewCount": 157587,
+    "ts": 900
    },
    {
     "videoId": "5t8EO1vph7U",
@@ -677,14 +687,6 @@
     "channel": "Top3Videos",
     "url": "https://www.youtube.com/watch?v=XasHHRRJrfU",
     "viewCount": 0
-   },
-   {
-    "videoId": "nmmHPzU1OPg",
-    "title": "Shenzhen Travel Guide 2026: First-Timer Tips & 3-Day Plan",
-    "channel": "1stTimeChina",
-    "url": "https://www.youtube.com/watch?v=nmmHPzU1OPg",
-    "ts": 115,
-    "viewCount": 0
    }
   ],
   "categoryEn": "Shopping",
@@ -697,7 +699,7 @@
   "category": "景点",
   "lat": 22.5566275,
   "lng": 114.0532386,
-  "recommendCount": 9,
+  "recommendCount": 8,
   "area": "深圳",
   "videos": [
    {
@@ -774,7 +776,7 @@
   "category": "景点",
   "lat": 22.5375058,
   "lng": 113.9686115,
-  "recommendCount": 9,
+  "recommendCount": 8,
   "area": "深圳",
   "videos": [
    {
@@ -791,7 +793,7 @@
     "channel": "Why Tan",
     "url": "https://www.youtube.com/watch?v=WAAe5l13NJ0",
     "viewCount": 77265,
-    "ts": null
+    "ts": 214
    },
    {
     "videoId": "MPSFmRPwvkM",
@@ -799,6 +801,22 @@
     "channel": "Sky Travel",
     "url": "https://www.youtube.com/watch?v=MPSFmRPwvkM",
     "viewCount": 52366,
+    "ts": null
+   },
+   {
+    "videoId": "ZtF-JAdiW0c",
+    "title": "Shenzhen Must-Visit Hidden Gems & Best Eats You Can’t Miss! 深圳必玩必吃全攻略 4K",
+    "channel": "iamestherm",
+    "url": "https://www.youtube.com/watch?v=ZtF-JAdiW0c",
+    "viewCount": 22018,
+    "ts": 27
+   },
+   {
+    "videoId": "vXevIa9wv34",
+    "title": "Shenzhen Travel Vlog 2026 Part 1| Family Trip Guide + Food + Attractions 深圳四天三夜行程｜景点、美食、住宿一次看",
+    "channel": "Daniel Liew",
+    "url": "https://www.youtube.com/watch?v=vXevIa9wv34",
+    "viewCount": 3437,
     "ts": null
    },
    {
@@ -823,21 +841,6 @@
     "channel": "gotochinanow",
     "url": "https://www.youtube.com/watch?v=tqNs8ID1Vvo",
     "viewCount": 0
-   },
-   {
-    "videoId": "XasHHRRJrfU",
-    "title": "Discover  Shenzhen, China 🇨🇳 charm: Ultimate 4-day travel guide",
-    "channel": "Top3Videos",
-    "url": "https://www.youtube.com/watch?v=XasHHRRJrfU",
-    "viewCount": 0
-   },
-   {
-    "videoId": "npMnUCobcps",
-    "title": "Top 10 Best Things To do in Shenzhen, China [Shenzhen Travel Guide 2025]",
-    "channel": "Travel Explorer",
-    "url": "https://www.youtube.com/watch?v=npMnUCobcps",
-    "ts": 49,
-    "viewCount": 0
    }
   ],
   "categoryEn": "Attractions",
@@ -850,7 +853,7 @@
   "category": "景点",
   "lat": 22.524592,
   "lng": 113.9879591,
-  "recommendCount": 9,
+  "recommendCount": 8,
   "area": "深圳",
   "videos": [
    {
@@ -859,7 +862,7 @@
     "channel": "Why Tan",
     "url": "https://www.youtube.com/watch?v=WAAe5l13NJ0",
     "viewCount": 77265,
-    "ts": null
+    "ts": 312
    },
    {
     "videoId": "_Oa3VJ2u5eE",
@@ -876,6 +879,14 @@
     "url": "https://www.youtube.com/watch?v=48WdZlVSnm8",
     "viewCount": 19092,
     "ts": 244
+   },
+   {
+    "videoId": "vXevIa9wv34",
+    "title": "Shenzhen Travel Vlog 2026 Part 1| Family Trip Guide + Food + Attractions 深圳四天三夜行程｜景点、美食、住宿一次看",
+    "channel": "Daniel Liew",
+    "url": "https://www.youtube.com/watch?v=vXevIa9wv34",
+    "viewCount": 3437,
+    "ts": null
    },
    {
     "videoId": "V0mKD_Qx8AM",
@@ -905,14 +916,6 @@
     "channel": "Top3Videos",
     "url": "https://www.youtube.com/watch?v=XasHHRRJrfU",
     "viewCount": 0
-   },
-   {
-    "videoId": "npMnUCobcps",
-    "title": "Top 10 Best Things To do in Shenzhen, China [Shenzhen Travel Guide 2025]",
-    "channel": "Travel Explorer",
-    "url": "https://www.youtube.com/watch?v=npMnUCobcps",
-    "ts": 230,
-    "viewCount": 0
    }
   ],
   "categoryEn": "Attractions",
@@ -925,7 +928,7 @@
   "category": "景点",
   "lat": 22.6589693,
   "lng": 114.0995854,
-  "recommendCount": 9,
+  "recommendCount": 8,
   "area": "深圳",
   "videos": [
    {
@@ -942,7 +945,7 @@
     "channel": "DarrenW",
     "url": "https://www.youtube.com/watch?v=L9rCCw_aEaM",
     "viewCount": 199357,
-    "ts": null
+    "ts": 1685
    },
    {
     "videoId": "WAAe5l13NJ0",
@@ -950,7 +953,7 @@
     "channel": "Why Tan",
     "url": "https://www.youtube.com/watch?v=WAAe5l13NJ0",
     "viewCount": 77265,
-    "ts": null
+    "ts": 848
    },
    {
     "videoId": "8fYdHMRR0ag",
@@ -1242,7 +1245,7 @@
     "channel": "DarrenW",
     "url": "https://www.youtube.com/watch?v=L9rCCw_aEaM",
     "viewCount": 199357,
-    "ts": null
+    "ts": 600
    },
    {
     "videoId": "_lofy-CHkKA",
@@ -1250,7 +1253,7 @@
     "channel": "brewed by the sea",
     "url": "https://www.youtube.com/watch?v=_lofy-CHkKA",
     "viewCount": 689,
-    "ts": null
+    "ts": 35
    },
    {
     "videoId": "GstRGT4zcxk",
@@ -1317,7 +1320,7 @@
     "channel": "Why Tan",
     "url": "https://www.youtube.com/watch?v=WAAe5l13NJ0",
     "viewCount": 77265,
-    "ts": null
+    "ts": 137
    },
    {
     "videoId": "FnCnulS9LYE",
@@ -1548,7 +1551,7 @@
     "channel": "Why Tan",
     "url": "https://www.youtube.com/watch?v=WAAe5l13NJ0",
     "viewCount": 77265,
-    "ts": null
+    "ts": 705
    },
    {
     "videoId": "_r8c5iD2-X0",
@@ -1600,6 +1603,74 @@
   ],
   "categoryEn": "Attractions",
   "desc": "Hillside botanical garden with a large lake and the serene Hong Fa Temple."
+ },
+ {
+  "id": "COCO Park",
+  "name_en": "COCO Park",
+  "name_zh": "购物公园",
+  "category": "商圈",
+  "lat": 22.5363888,
+  "lng": 114.0488652,
+  "recommendCount": 7,
+  "area": "深圳",
+  "videos": [
+   {
+    "videoId": "n110MY5IzyE",
+    "title": "3D2N in Shenzhen 深圳之旅🇨🇳｜Explore modern city in China | Coffee, Shopping Malls | relaxing travel VLOG",
+    "channel": "Heather's diary",
+    "url": "https://www.youtube.com/watch?v=n110MY5IzyE",
+    "viewCount": 250567,
+    "ts": 1613
+   },
+   {
+    "videoId": "_Oa3VJ2u5eE",
+    "title": "颖行日记 27｜深圳经典三件套：乳鸽、椰子鸡、早茶，我们一次吃齐了 | 48 Hours in 深圳 Shenzhen Pt 2",
+    "channel": "Hazelle Teo",
+    "url": "https://www.youtube.com/watch?v=_Oa3VJ2u5eE",
+    "viewCount": 39760,
+    "ts": null
+   },
+   {
+    "videoId": "tRkUZ4wyYuo",
+    "title": "Ultimate Shenzhen China TRAVEL GUIDE 🇨🇳",
+    "channel": "Our Roaming Empire",
+    "url": "https://www.youtube.com/watch?v=tRkUZ4wyYuo",
+    "viewCount": 32134,
+    "ts": null
+   },
+   {
+    "videoId": "Q9JKqsWfeuQ",
+    "title": "Top 10 Best Things to do in Shenzhen, China [Shenzhen Travel Guide 2026]",
+    "channel": "Vacation Idea",
+    "url": "https://www.youtube.com/watch?v=Q9JKqsWfeuQ",
+    "ts": 428,
+    "viewCount": 0
+   },
+   {
+    "videoId": "yB_mEPdY8xk",
+    "title": "2 Days in Shenzhen, China - The Perfect Itinerary!",
+    "channel": "Town Travel Tips",
+    "url": "https://www.youtube.com/watch?v=yB_mEPdY8xk",
+    "viewCount": 0
+   },
+   {
+    "videoId": "j2gsOknX1rM",
+    "title": "Shenzhen Vlog 🇨🇳 | dim sum, coco park, Mixc, dafen oil painting village, nantou ancient city",
+    "channel": "Sunny Side Singapore",
+    "url": "https://www.youtube.com/watch?v=j2gsOknX1rM",
+    "viewCount": 0
+   },
+   {
+    "videoId": "1iFGAGWDIps",
+    "title": "Best Things To Do in Shenzhen China Travel Guide 2026 4K",
+    "channel": "Island Hopper TV",
+    "url": "https://www.youtube.com/watch?v=1iFGAGWDIps",
+    "ts": 243,
+    "viewCount": 0
+   }
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Open-air mall and nightlife strip in Futian, busy with bars and restaurants after dark."
  },
  {
   "id": "Shenzhen Bay",
@@ -1658,6 +1729,65 @@
   ],
   "categoryEn": "Attractions",
   "desc": "The wide bay separating Shenzhen from Hong Kong, framed by a landscaped waterfront."
+ },
+ {
+  "id": "OCT Harbour",
+  "name_en": "OCT Harbour",
+  "name_zh": "欢乐海岸",
+  "category": "商圈",
+  "lat": 22.5259532,
+  "lng": 113.9830035,
+  "recommendCount": 6,
+  "area": "深圳",
+  "videos": [
+   {
+    "videoId": "n110MY5IzyE",
+    "title": "3D2N in Shenzhen 深圳之旅🇨🇳｜Explore modern city in China | Coffee, Shopping Malls | relaxing travel VLOG",
+    "channel": "Heather's diary",
+    "url": "https://www.youtube.com/watch?v=n110MY5IzyE",
+    "viewCount": 250567,
+    "ts": 1093
+   },
+   {
+    "videoId": "_lofy-CHkKA",
+    "title": "［深圳] Shenzhen 2D1N Trip Itinerary 旅游行程",
+    "channel": "brewed by the sea",
+    "url": "https://www.youtube.com/watch?v=_lofy-CHkKA",
+    "viewCount": 689,
+    "ts": 87
+   },
+   {
+    "videoId": "Q9JKqsWfeuQ",
+    "title": "Top 10 Best Things to do in Shenzhen, China [Shenzhen Travel Guide 2026]",
+    "channel": "Vacation Idea",
+    "url": "https://www.youtube.com/watch?v=Q9JKqsWfeuQ",
+    "viewCount": 0
+   },
+   {
+    "videoId": "tqNs8ID1Vvo",
+    "title": "🔥Shenzhen TOP 10 MUST-SEE Spots! #travel #china #chinatravel #shenzhen #city #mustsee #tour #guide",
+    "channel": "gotochinanow",
+    "url": "https://www.youtube.com/watch?v=tqNs8ID1Vvo",
+    "viewCount": 0
+   },
+   {
+    "videoId": "npMnUCobcps",
+    "title": "Top 10 Best Things To do in Shenzhen, China [Shenzhen Travel Guide 2025]",
+    "channel": "Travel Explorer",
+    "url": "https://www.youtube.com/watch?v=npMnUCobcps",
+    "ts": 140,
+    "viewCount": 0
+   },
+   {
+    "videoId": "2-gWSGpRgFw",
+    "title": "Shenzhen: Top 10 Places to Visit in Shenzhen, China. Ultimate Travel Guide.",
+    "channel": "The Tapper",
+    "url": "https://www.youtube.com/watch?v=2-gWSGpRgFw",
+    "viewCount": 0
+   }
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Lively waterfront complex of restaurants, shops and an evening fountain show."
  },
  {
   "id": "Futian CBD",
@@ -1766,58 +1896,6 @@
   "desc": "Polished upscale mall for luxury shopping and a reliable meal."
  },
  {
-  "id": "COCO Park",
-  "name_en": "COCO Park",
-  "name_zh": "购物公园",
-  "category": "商圈",
-  "lat": 22.5363888,
-  "lng": 114.0488652,
-  "recommendCount": 5,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "tRkUZ4wyYuo",
-    "title": "Ultimate Shenzhen China TRAVEL GUIDE 🇨🇳",
-    "channel": "Our Roaming Empire",
-    "url": "https://www.youtube.com/watch?v=tRkUZ4wyYuo",
-    "viewCount": 32134,
-    "ts": null
-   },
-   {
-    "videoId": "Q9JKqsWfeuQ",
-    "title": "Top 10 Best Things to do in Shenzhen, China [Shenzhen Travel Guide 2026]",
-    "channel": "Vacation Idea",
-    "url": "https://www.youtube.com/watch?v=Q9JKqsWfeuQ",
-    "ts": 428,
-    "viewCount": 0
-   },
-   {
-    "videoId": "yB_mEPdY8xk",
-    "title": "2 Days in Shenzhen, China - The Perfect Itinerary!",
-    "channel": "Town Travel Tips",
-    "url": "https://www.youtube.com/watch?v=yB_mEPdY8xk",
-    "viewCount": 0
-   },
-   {
-    "videoId": "j2gsOknX1rM",
-    "title": "Shenzhen Vlog 🇨🇳 | dim sum, coco park, Mixc, dafen oil painting village, nantou ancient city",
-    "channel": "Sunny Side Singapore",
-    "url": "https://www.youtube.com/watch?v=j2gsOknX1rM",
-    "viewCount": 0
-   },
-   {
-    "videoId": "1iFGAGWDIps",
-    "title": "Best Things To Do in Shenzhen China Travel Guide 2026 4K",
-    "channel": "Island Hopper TV",
-    "url": "https://www.youtube.com/watch?v=1iFGAGWDIps",
-    "ts": 243,
-    "viewCount": 0
-   }
-  ],
-  "categoryEn": "Shopping",
-  "desc": "Open-air mall and nightlife strip in Futian, busy with bars and restaurants after dark."
- },
- {
   "id": "Shenzhen Library",
   "name_en": "Shenzhen Library",
   "name_zh": "深圳图书馆",
@@ -1872,49 +1950,6 @@
   "desc": "Striking modern library beside the Civic Center, open to visitors."
  },
  {
-  "id": "OCT Harbour",
-  "name_en": "OCT Harbour",
-  "name_zh": "欢乐海岸",
-  "category": "商圈",
-  "lat": 22.5259532,
-  "lng": 113.9830035,
-  "recommendCount": 4,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "Q9JKqsWfeuQ",
-    "title": "Top 10 Best Things to do in Shenzhen, China [Shenzhen Travel Guide 2026]",
-    "channel": "Vacation Idea",
-    "url": "https://www.youtube.com/watch?v=Q9JKqsWfeuQ",
-    "viewCount": 0
-   },
-   {
-    "videoId": "tqNs8ID1Vvo",
-    "title": "🔥Shenzhen TOP 10 MUST-SEE Spots! #travel #china #chinatravel #shenzhen #city #mustsee #tour #guide",
-    "channel": "gotochinanow",
-    "url": "https://www.youtube.com/watch?v=tqNs8ID1Vvo",
-    "viewCount": 0
-   },
-   {
-    "videoId": "npMnUCobcps",
-    "title": "Top 10 Best Things To do in Shenzhen, China [Shenzhen Travel Guide 2025]",
-    "channel": "Travel Explorer",
-    "url": "https://www.youtube.com/watch?v=npMnUCobcps",
-    "ts": 140,
-    "viewCount": 0
-   },
-   {
-    "videoId": "2-gWSGpRgFw",
-    "title": "Shenzhen: Top 10 Places to Visit in Shenzhen, China. Ultimate Travel Guide.",
-    "channel": "The Tapper",
-    "url": "https://www.youtube.com/watch?v=2-gWSGpRgFw",
-    "viewCount": 0
-   }
-  ],
-  "categoryEn": "Shopping",
-  "desc": "Lively waterfront complex of restaurants, shops and an evening fountain show."
- },
- {
   "id": "Luohu Commercial City",
   "name_en": "Luohu Commercial City",
   "name_zh": "罗湖商业城",
@@ -1966,9 +2001,17 @@
   "category": "景点",
   "lat": 22.5803844,
   "lng": 113.9379775,
-  "recommendCount": 3,
+  "recommendCount": 4,
   "area": "深圳",
   "videos": [
+   {
+    "videoId": "XjqQaoACmM0",
+    "title": "【广东】深圳3天2晚玩什么？从未来科技到人间烟火，48小时极限打卡16个吃喝玩乐新体验 | 无人驾驶网约车 | 无人机外卖 | 机器人咖啡 | UFO餐厅 | 巨人展 | 烧鹅濑粉 | 深圳海鲜",
+    "channel": "应小文",
+    "url": "https://www.youtube.com/watch?v=XjqQaoACmM0",
+    "viewCount": 225324,
+    "ts": 1471
+   },
    {
     "videoId": "DfUE-4GSLZc",
     "title": "10 must visit places in Shenzhen！",
@@ -1993,6 +2036,52 @@
   ],
   "categoryEn": "Attractions",
   "desc": "DJI's futuristic twin-tower headquarters, an icon of Shenzhen's tech scene."
+ },
+ {
+  "id": "Shuiwei Night Market",
+  "name_en": "Shuiwei Night Market",
+  "name_zh": "水围夜市",
+  "category": "餐厅",
+  "lat": 22.6387784,
+  "lng": 114.0435753,
+  "recommendCount": 4,
+  "area": "深圳",
+  "videos": [
+   {
+    "videoId": "n110MY5IzyE",
+    "title": "3D2N in Shenzhen 深圳之旅🇨🇳｜Explore modern city in China | Coffee, Shopping Malls | relaxing travel VLOG",
+    "channel": "Heather's diary",
+    "url": "https://www.youtube.com/watch?v=n110MY5IzyE",
+    "viewCount": 250567,
+    "ts": 481
+   },
+   {
+    "videoId": "UmmUj5i0esY",
+    "title": "[神州穿梭.深圳#1249] 新皇崗口岸 周邊全攻略 5站掃勻深圳美食 超市 街市 商場 10月12日正式開通",
+    "channel": "Data Ma",
+    "url": "https://www.youtube.com/watch?v=UmmUj5i0esY",
+    "viewCount": 157587,
+    "ts": 261
+   },
+   {
+    "videoId": "zzcBd9pJst8",
+    "title": "新皇崗口岸好去處｜水圍夜市 深圳地鐵福民站｜夜游水圍 一次行兩個夜市｜最近地鐵站酒店｜艾灸足浴｜人氣糖水舖｜黃師奶深圳日常￼",
+    "channel": "黄小虎",
+    "url": "https://www.youtube.com/watch?v=zzcBd9pJst8",
+    "viewCount": 73469,
+    "ts": null
+   },
+   {
+    "videoId": "V0mKD_Qx8AM",
+    "title": "4 Days in Shenzhen, China 2026 - A Travel Guide for First-Time Visitors",
+    "channel": "Lais",
+    "url": "https://www.youtube.com/watch?v=V0mKD_Qx8AM",
+    "ts": 213,
+    "viewCount": 0
+   }
+  ],
+  "categoryEn": "Food & drink",
+  "desc": "Lively night market of cheap skewers and late-night snacks in Futian."
  },
  {
   "id": "Dapeng Peninsula",
@@ -2084,7 +2173,7 @@
     "channel": "应小文 Wen To Travel",
     "url": "https://www.youtube.com/watch?v=XjqQaoACmM0",
     "viewCount": 225324,
-    "ts": null
+    "ts": 1600
    },
    {
     "videoId": "vXevIa9wv34",
@@ -2105,6 +2194,80 @@
   ],
   "categoryEn": "Attractions",
   "desc": "Dazzling underground metro concourse, famous for its rhythmic light installation."
+ },
+ {
+  "id": "Zhongshu Bookstore",
+  "name_en": "Zhongshu Bookstore",
+  "name_zh": "钟书阁",
+  "category": "商圈",
+  "lat": 22.5752092,
+  "lng": 114.0378661,
+  "recommendCount": 3,
+  "area": "深圳",
+  "videos": [
+   {
+    "videoId": "WAAe5l13NJ0",
+    "title": "Vlog｜深圳好去处 2025 | 3天3夜自由行 | 最值得去的景点 |Shenzhen Travel Guide: 10 BEST Things To Do In Guangdong",
+    "channel": "Why Tan",
+    "url": "https://www.youtube.com/watch?v=WAAe5l13NJ0",
+    "viewCount": 77265,
+    "ts": 988
+   },
+   {
+    "videoId": "DfUE-4GSLZc",
+    "title": "10 must visit places in Shenzhen！",
+    "channel": "traveltoqin",
+    "url": "https://www.youtube.com/watch?v=DfUE-4GSLZc",
+    "viewCount": 0
+   },
+   {
+    "videoId": "BDkjb-wC-k0",
+    "title": "10 must visit places in Shenzhen！",
+    "channel": "traveltoqin",
+    "url": "https://www.youtube.com/watch?v=BDkjb-wC-k0",
+    "viewCount": 0
+   }
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Instagram-famous bookstore with mirrored, maze-like interiors."
+ },
+ {
+  "id": "79 Fishing Boat Seafood Restaurant",
+  "name_en": "79 Fishing Boat Seafood Restaurant",
+  "name_zh": "79号渔船海鲜饭店",
+  "category": "餐厅",
+  "categoryEn": "Food & drink",
+  "desc": "Popular seafood restaurant with several branches — pick live seafood from the tanks. Approximate location near Caitian Road.",
+  "lat": 22.5544,
+  "lng": 114.0625,
+  "recommendCount": 3,
+  "videos": [
+   {
+    "videoId": "XjqQaoACmM0",
+    "title": "【广东】深圳3天2晚玩什么？从未来科技到人间烟火，48小时极限打卡16个吃喝玩乐新体验 | 无人驾驶网约车 | 无人机外卖 | 机器人咖啡 | UFO餐厅 | 巨人展 | 烧鹅濑粉 | 深圳海鲜",
+    "channel": "应小文",
+    "url": "https://www.youtube.com/watch?v=XjqQaoACmM0",
+    "viewCount": 225324,
+    "ts": 935
+   },
+   {
+    "videoId": "L9rCCw_aEaM",
+    "title": "深圳Vlog! 🇨🇳 美食吃喝玩乐！Shenzhen Travel Vlog",
+    "channel": "DarrenW",
+    "url": "https://www.youtube.com/watch?v=L9rCCw_aEaM",
+    "viewCount": 199357,
+    "ts": 1938
+   },
+   {
+    "videoId": "CNRnqos0aMw",
+    "title": "Shenzhen: Must-Try Street Food & Local Eats You Can’t Miss! 深圳必吃美食全攻略 4K",
+    "channel": "iamestherm",
+    "url": "https://www.youtube.com/watch?v=CNRnqos0aMw",
+    "viewCount": 20102,
+    "ts": 249
+   }
+  ],
+  "area": "深圳"
  },
  {
   "id": "Houhai",
@@ -2251,34 +2414,6 @@
   "desc": "Mall in the heart of Futian, handy for a meal between sights."
  },
  {
-  "id": "Zhongshu Bookstore",
-  "name_en": "Zhongshu Bookstore",
-  "name_zh": "钟书阁",
-  "category": "商圈",
-  "lat": 22.5752092,
-  "lng": 114.0378661,
-  "recommendCount": 2,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "DfUE-4GSLZc",
-    "title": "10 must visit places in Shenzhen！",
-    "channel": "traveltoqin",
-    "url": "https://www.youtube.com/watch?v=DfUE-4GSLZc",
-    "viewCount": 0
-   },
-   {
-    "videoId": "BDkjb-wC-k0",
-    "title": "10 must visit places in Shenzhen！",
-    "channel": "traveltoqin",
-    "url": "https://www.youtube.com/watch?v=BDkjb-wC-k0",
-    "viewCount": 0
-   }
-  ],
-  "categoryEn": "Shopping",
-  "desc": "Instagram-famous bookstore with mirrored, maze-like interiors."
- },
- {
   "id": "Dapeng Fortress",
   "name_en": "Dapeng Fortress",
   "name_zh": "大鹏所城",
@@ -2350,7 +2485,7 @@
     "channel": "Why Tan",
     "url": "https://www.youtube.com/watch?v=WAAe5l13NJ0",
     "viewCount": 77265,
-    "ts": null
+    "ts": 724
    },
    {
     "videoId": "1iFGAGWDIps",
@@ -2363,36 +2498,6 @@
   ],
   "categoryEn": "Attractions",
   "desc": "Large Buddhist temple in the hills beside Fairy Lake, lively on festival days."
- },
- {
-  "id": "Shuiwei Night Market",
-  "name_en": "Shuiwei Night Market",
-  "name_zh": "水围夜市",
-  "category": "餐厅",
-  "lat": 22.6387784,
-  "lng": 114.0435753,
-  "recommendCount": 2,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "n110MY5IzyE",
-    "title": "3D2N in Shenzhen 深圳之旅🇨🇳｜Explore modern city in China | Coffee, Shopping Malls | relaxing travel VLOG",
-    "channel": "Heather's diary",
-    "url": "https://www.youtube.com/watch?v=n110MY5IzyE",
-    "viewCount": 250567,
-    "ts": null
-   },
-   {
-    "videoId": "V0mKD_Qx8AM",
-    "title": "4 Days in Shenzhen, China 2026 - A Travel Guide for First-Time Visitors",
-    "channel": "Lais",
-    "url": "https://www.youtube.com/watch?v=V0mKD_Qx8AM",
-    "ts": 213,
-    "viewCount": 0
-   }
-  ],
-  "categoryEn": "Food & drink",
-  "desc": "Lively night market of cheap skewers and late-night snacks in Futian."
  },
  {
   "id": "Chung Ying Street",
@@ -2481,6 +2586,124 @@
   ],
   "categoryEn": "Attractions",
   "desc": "Museum of Contemporary Art & Planning Exhibition, next to the Civic Center."
+ },
+ {
+  "id": "Inno 100",
+  "name_en": "Inno 100",
+  "name_zh": "创投大厦",
+  "category": "景点",
+  "lat": 22.5375646,
+  "lng": 114.0179866,
+  "recommendCount": 2,
+  "area": "深圳",
+  "videos": [
+   {
+    "videoId": "XjqQaoACmM0",
+    "title": "【广东】深圳3天2晚玩什么？从未来科技到人间烟火，48小时极限打卡16个吃喝玩乐新体验 | 无人驾驶网约车 | 无人机外卖 | 机器人咖啡 | UFO餐厅 | 巨人展 | 烧鹅濑粉 | 深圳海鲜",
+    "channel": "应小文",
+    "url": "https://www.youtube.com/watch?v=XjqQaoACmM0",
+    "viewCount": 225324,
+    "ts": 397
+   },
+   {
+    "videoId": "8AGxxMjAhXE",
+    "title": "Shenzhen China Travel Guide 2026 🇨🇳 | Inside China's MOST Futuristic City",
+    "channel": "PhatLife Project",
+    "url": "https://www.youtube.com/watch?v=8AGxxMjAhXE",
+    "ts": 327,
+    "viewCount": 0
+   }
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Landmark tower in the Talent Park area, part of the skyline photo circuit."
+ },
+ {
+  "id": "24 Histories Academy",
+  "name_en": "24 Histories Academy",
+  "name_zh": "二十四史书院",
+  "category": "景点",
+  "lat": 22.6640263,
+  "lng": 114.0953815,
+  "recommendCount": 2,
+  "area": "深圳",
+  "videos": [
+   {
+    "videoId": "WAAe5l13NJ0",
+    "title": "Vlog｜深圳好去处 2025 | 3天3夜自由行 | 最值得去的景点 |Shenzhen Travel Guide: 10 BEST Things To Do In Guangdong",
+    "channel": "Why Tan",
+    "url": "https://www.youtube.com/watch?v=WAAe5l13NJ0",
+    "viewCount": 77265,
+    "ts": 941
+   },
+   {
+    "videoId": "cMEm7Vl3cKA",
+    "title": "3 days in shenzhen (china's futuristic city)",
+    "channel": "Sam and Victor",
+    "url": "https://www.youtube.com/watch?v=cMEm7Vl3cKA",
+    "ts": 1030,
+    "viewCount": 0
+   }
+  ],
+  "categoryEn": "Attractions",
+  "desc": "Bookish cultural compound themed on China's 24 official histories."
+ },
+ {
+  "id": "Gangxia North Station",
+  "name_en": "Gangxia North Station",
+  "name_zh": "岗厦北站",
+  "category": "交通",
+  "lat": 22.540792,
+  "lng": 114.0627423,
+  "recommendCount": 2,
+  "area": "深圳",
+  "videos": [
+   {
+    "videoId": "vXevIa9wv34",
+    "title": "Shenzhen Travel Vlog 2026 Part 1| Family Trip Guide + Food + Attractions 深圳四天三夜行程｜景点、美食、住宿一次看",
+    "channel": "Daniel Liew",
+    "url": "https://www.youtube.com/watch?v=vXevIa9wv34",
+    "viewCount": 3437,
+    "ts": null
+   },
+   {
+    "videoId": "cV7gk72NOcE",
+    "title": "I Can't Believe What China Built in Shenzhen...",
+    "channel": "Living in China",
+    "url": "https://www.youtube.com/watch?v=cV7gk72NOcE",
+    "viewCount": 0
+   }
+  ],
+  "categoryEn": "Transport",
+  "desc": "Huge underground metro hub nicknamed the 'Eye of Shenzhen' for its design."
+ },
+ {
+  "id": "Shekou",
+  "name_en": "Shekou",
+  "name_zh": "蛇口",
+  "category": "商圈",
+  "lat": 22.4910127,
+  "lng": 113.9224821,
+  "recommendCount": 2,
+  "area": "深圳",
+  "videos": [
+   {
+    "videoId": "OcOQ8E1CnCw",
+    "title": "2026 深圳香港自由行｜第一次去深圳香港怎么玩？行程美食住宿全整理【VLOG】【Eng Sub】",
+    "channel": "Summer Channel",
+    "url": "https://www.youtube.com/watch?v=OcOQ8E1CnCw",
+    "viewCount": 230457,
+    "ts": 549
+   },
+   {
+    "videoId": "P7W20hdgWXY",
+    "title": "I spent 4 days in China’s Most Futuristic City",
+    "channel": "CoolVision",
+    "url": "https://www.youtube.com/watch?v=P7W20hdgWXY",
+    "viewCount": 0
+   }
+  ],
+  "categoryEn": "Shopping",
+  "desc": "Cosmopolitan waterfront neighborhood with expat bars, cafés and ferry links."
  },
  {
   "id": "Mangrove Park",
@@ -2589,28 +2812,6 @@
   ],
   "categoryEn": "Attractions",
   "desc": "Hilltop observatory on Dapeng with sweeping coastal views; limited visiting hours."
- },
- {
-  "id": "Inno 100",
-  "name_en": "Inno 100",
-  "name_zh": "创投大厦",
-  "category": "景点",
-  "lat": 22.5375646,
-  "lng": 114.0179866,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "8AGxxMjAhXE",
-    "title": "Shenzhen China Travel Guide 2026 🇨🇳 | Inside China's MOST Futuristic City",
-    "channel": "PhatLife Project",
-    "url": "https://www.youtube.com/watch?v=8AGxxMjAhXE",
-    "ts": 327,
-    "viewCount": 0
-   }
-  ],
-  "categoryEn": "Attractions",
-  "desc": "Landmark tower in the Talent Park area, part of the skyline photo circuit."
  },
  {
   "id": "Honglicun Rice Noodle Rolls",
@@ -2875,28 +3076,6 @@
   "desc": "Quiet tea-and-dessert spot near Nantou Ancient City."
  },
  {
-  "id": "24 Histories Academy",
-  "name_en": "24 Histories Academy",
-  "name_zh": "二十四史书院",
-  "category": "景点",
-  "lat": 22.6640263,
-  "lng": 114.0953815,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "cMEm7Vl3cKA",
-    "title": "3 days in shenzhen (china's futuristic city)",
-    "channel": "Sam and Victor",
-    "url": "https://www.youtube.com/watch?v=cMEm7Vl3cKA",
-    "ts": 1030,
-    "viewCount": 0
-   }
-  ],
-  "categoryEn": "Attractions",
-  "desc": "Bookish cultural compound themed on China's 24 official histories."
- },
- {
   "id": "Mandarin Oriental",
   "name_en": "Mandarin Oriental",
   "name_zh": "文华东方酒店",
@@ -2917,27 +3096,6 @@
   ],
   "categoryEn": "Other",
   "desc": "Luxury hotel near Shenzhen Bay, known for its dim sum restaurant."
- },
- {
-  "id": "Gangxia North Station",
-  "name_en": "Gangxia North Station",
-  "name_zh": "岗厦北站",
-  "category": "交通",
-  "lat": 22.540792,
-  "lng": 114.0627423,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "cV7gk72NOcE",
-    "title": "I Can't Believe What China Built in Shenzhen...",
-    "channel": "Living in China",
-    "url": "https://www.youtube.com/watch?v=cV7gk72NOcE",
-    "viewCount": 0
-   }
-  ],
-  "categoryEn": "Transport",
-  "desc": "Huge underground metro hub nicknamed the 'Eye of Shenzhen' for its design."
  },
  {
   "id": "Xiaomeisha Beach",
@@ -3045,27 +3203,6 @@
   "desc": "Tencent's twin-tower headquarters, a landmark of Shenzhen's internet industry."
  },
  {
-  "id": "Shekou",
-  "name_en": "Shekou",
-  "name_zh": "蛇口",
-  "category": "商圈",
-  "lat": 22.4910127,
-  "lng": 113.9224821,
-  "recommendCount": 1,
-  "area": "深圳",
-  "videos": [
-   {
-    "videoId": "P7W20hdgWXY",
-    "title": "I spent 4 days in China’s Most Futuristic City",
-    "channel": "CoolVision",
-    "url": "https://www.youtube.com/watch?v=P7W20hdgWXY",
-    "viewCount": 0
-   }
-  ],
-  "categoryEn": "Shopping",
-  "desc": "Cosmopolitan waterfront neighborhood with expat bars, cafés and ferry links."
- },
- {
   "id": "Luohu",
   "name_en": "Luohu",
   "name_zh": "罗湖",
@@ -3129,5 +3266,181 @@
   ],
   "categoryEn": "Attractions",
   "desc": "Large, shaded park in Nanshan, popular with families and joggers."
+ },
+ {
+  "id": "Xuwen Yixiongji Roast Chicken",
+  "name_en": "Xuwen Yixiongji Roast Chicken",
+  "name_zh": "徐闻一品粤熊记烧鸡",
+  "category": "餐厅",
+  "categoryEn": "Food & drink",
+  "desc": "Leizhou-style roast chicken and lamb hotpot spot in Liutang, Luohu.",
+  "lat": 22.5642265,
+  "lng": 114.1663436,
+  "recommendCount": 1,
+  "videos": [
+   {
+    "videoId": "dibLxmIUlDU",
+    "title": "【深圳美食】 秋冬滋補之選💁🏻‍♀️ 羅湖蓮塘每日新鮮羊肉煲 平價燒雞大王餐廳｜徐聞一品·粵熊記燒雞",
+    "channel": "雙下巴生活",
+    "url": "https://www.youtube.com/watch?v=dibLxmIUlDU",
+    "viewCount": 23554,
+    "ts": 72
+   }
+  ],
+  "area": "深圳"
+ },
+ {
+  "id": "Liutang Market",
+  "name_en": "Liutang Market",
+  "name_zh": "莲塘森照肉菜市场",
+  "category": "商圈",
+  "categoryEn": "Shopping",
+  "desc": "Lively local wet market in Luohu's Liutang area — a glimpse of everyday Shenzhen.",
+  "lat": 22.566851,
+  "lng": 114.1692648,
+  "recommendCount": 1,
+  "videos": [
+   {
+    "videoId": "5Rutq3Fb-js",
+    "title": "【廣東】都說深圳物價貴？實拍150種菜價！傳統市場VS現代超市！本地人真實生活成本大公開！......中國物價 | 深圳旅游 | 深圳生活 | 港人北上 |森照肉菜市場 | 小象超市 | 坳下村 |",
+    "channel": "应小文",
+    "url": "https://www.youtube.com/watch?v=5Rutq3Fb-js",
+    "viewCount": 11845,
+    "ts": 0
+   }
+  ],
+  "area": "深圳"
+ },
+ {
+  "id": "Aoxiakou Village Market",
+  "name_en": "Aoxiakou Village Market",
+  "name_zh": "坳下村肉菜市场",
+  "category": "商圈",
+  "categoryEn": "Shopping",
+  "desc": "Traditional village market in Luohu, popular with local residents and cross-border shoppers.",
+  "lat": 22.5692398,
+  "lng": 114.1634921,
+  "recommendCount": 1,
+  "videos": [
+   {
+    "videoId": "5Rutq3Fb-js",
+    "title": "【廣東】都說深圳物價貴？實拍150種菜價！傳統市場VS現代超市！本地人真實生活成本大公開！......中國物價 | 深圳旅游 | 深圳生活 | 港人北上 |森照肉菜市場 | 小象超市 | 坳下村 |",
+    "channel": "应小文",
+    "url": "https://www.youtube.com/watch?v=5Rutq3Fb-js",
+    "viewCount": 11845,
+    "ts": 409
+   }
+  ],
+  "area": "深圳"
+ },
+ {
+  "id": "Jinxiu Garden",
+  "name_en": "Jinxiu Garden",
+  "name_zh": "锦绣园",
+  "category": "景点",
+  "categoryEn": "Attractions",
+  "desc": "Hidden 20,000 m² Suzhou-style garden with lakes and koi, tucked inside Huanggang village.",
+  "lat": 22.5292299,
+  "lng": 114.0544265,
+  "recommendCount": 1,
+  "videos": [
+   {
+    "videoId": "UmmUj5i0esY",
+    "title": "[神州穿梭.深圳#1249] 新皇崗口岸 周邊全攻略 5站掃勻深圳美食 超市 街市 商場 10月12日正式開通",
+    "channel": "Data Ma",
+    "url": "https://www.youtube.com/watch?v=UmmUj5i0esY",
+    "viewCount": 157587,
+    "ts": 420
+   }
+  ],
+  "area": "深圳"
+ },
+ {
+  "id": "Shixia",
+  "name_en": "Shixia",
+  "name_zh": "石厦时代广场",
+  "category": "商圈",
+  "categoryEn": "Shopping",
+  "desc": "Local shopping complex in Shixia with chain restaurants, a cinema and bookshops.",
+  "lat": 22.5264418,
+  "lng": 114.0483506,
+  "recommendCount": 1,
+  "videos": [
+   {
+    "videoId": "UmmUj5i0esY",
+    "title": "[神州穿梭.深圳#1249] 新皇崗口岸 周邊全攻略 5站掃勻深圳美食 超市 街市 商場 10月12日正式開通",
+    "channel": "Data Ma",
+    "url": "https://www.youtube.com/watch?v=UmmUj5i0esY",
+    "viewCount": 157587,
+    "ts": 613
+   }
+  ],
+  "area": "深圳"
+ },
+ {
+  "id": "Yantian",
+  "name_en": "Yantian",
+  "name_zh": "盐田海鲜街",
+  "category": "餐厅",
+  "categoryEn": "Food & drink",
+  "desc": "Seafood restaurants near Yantian's docks — pick your catch and have it cooked on the spot.",
+  "lat": 22.5892687,
+  "lng": 114.2728457,
+  "recommendCount": 1,
+  "videos": [
+   {
+    "videoId": "ZtF-JAdiW0c",
+    "title": "Shenzhen Must-Visit Hidden Gems & Best Eats You Can’t Miss! 深圳必玩必吃全攻略 4K",
+    "channel": "iamestherm",
+    "url": "https://www.youtube.com/watch?v=ZtF-JAdiW0c",
+    "viewCount": 22018,
+    "ts": 386
+   }
+  ],
+  "area": "深圳"
+ },
+ {
+  "id": "Huanggang Market",
+  "name_en": "Huanggang Market",
+  "name_zh": "皇岗肉菜市场",
+  "category": "商圈",
+  "categoryEn": "Shopping",
+  "desc": "Large local market near Huanggang port, with produce, seafood and dry goods sections.",
+  "lat": 22.5259,
+  "lng": 114.0539,
+  "recommendCount": 1,
+  "videos": [
+   {
+    "videoId": "UmmUj5i0esY",
+    "title": "[神州穿梭.深圳#1249] 新皇崗口岸 周邊全攻略 5站掃勻深圳美食 超市 街市 商場 10月12日正式開通",
+    "channel": "Data Ma",
+    "url": "https://www.youtube.com/watch?v=UmmUj5i0esY",
+    "viewCount": 157587,
+    "ts": 365
+   }
+  ],
+  "area": "深圳"
+ },
+ {
+  "id": "Zhuang's Ancestral Hall",
+  "name_en": "Zhuang's Ancestral Hall",
+  "name_zh": "庄氏宗祠",
+  "category": "景点",
+  "categoryEn": "Attractions",
+  "desc": "Ornate Lingnan-style ancestral hall inside Huanggang village, with carved stone pillars.",
+  "lat": 22.5259,
+  "lng": 114.0539,
+  "recommendCount": 1,
+  "videos": [
+   {
+    "videoId": "UmmUj5i0esY",
+    "title": "[神州穿梭.深圳#1249] 新皇崗口岸 周邊全攻略 5站掃勻深圳美食 超市 街市 商場 10月12日正式開通",
+    "channel": "Data Ma",
+    "url": "https://www.youtube.com/watch?v=UmmUj5i0esY",
+    "viewCount": 157587,
+    "ts": 400
+   }
+  ],
+  "area": "深圳"
  }
 ]
