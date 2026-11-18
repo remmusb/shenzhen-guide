@@ -24,6 +24,7 @@
   .lang{position:absolute;top:12px;right:12px;z-index:500;background:#fff;border:1px solid var(--line);border-radius:6px;padding:5px;font-size:11px;box-shadow:0 1px 6px rgba(0,0,0,.1)}
   .lang button{border:0;background:none;padding:3px 9px;cursor:pointer;color:var(--muted);font-size:11px;border-radius:4px}
   .lang button.on{background:var(--ink);color:#fff}
+  .poi-label{background:rgba(255,255,255,.92);border:1px solid #ccc;border-radius:4px;padding:1px 5px;font-size:10px;font-weight:600;color:#1a1a19;box-shadow:0 1px 3px rgba(0,0,0,.1);white-space:nowrap}
   .side{width:360px;border-left:1px solid var(--line);background:var(--card);overflow-y:auto;max-height:700px}
   .side-h{padding:16px 18px;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--card);z-index:2}
   .side-h b{font-size:14px}
@@ -143,6 +144,11 @@ function renderMarkers(){
   shown().forEach(p=>{
     const m=L.marker([p.lat,p.lng]).addTo(map);
     m.bindPopup(`<b>${p.name_en}</b><br><span style="font-size:11px;color:#888">${p.name_zh} · ${p.categoryEn}</span><br><span style="font-size:11px;line-height:1.4;display:block;max-width:210px;margin:5px 0">${p.desc}</span><span style="font-size:11px;color:var(--green)">● Featured in ${p.recommendCount} video${p.recommendCount>1?'s':''}</span>`);
+    // 永久英文标签：让外国游客在中文底图上也能读懂地名
+    // 只给推荐数≥3的热门点显示，避免75个标签全挤在一起
+    if(p.recommendCount>=3){
+      m.bindTooltip(p.name_en,{permanent:true,direction:'top',offset:[0,-8],className:'poi-label'});
+    }
     m.on('click',()=>showDetail(p));
     markers.push(m);
   });
