@@ -97,10 +97,10 @@
 const CATS=["All","Attractions","Food & drink","Shopping","Transport","Other"];
 let POI=[],active="All",map,markers=[],tileLayer;
 
-// 英文瓦片（CartoDB Positron，英文标签浅色底）/ 中文瓦片（OSM 标准，本地语言）
+// 双语瓦片（Wikimedia：中文+拼音+英文，免key）/ 纯中文瓦片（OSM 标准，本地语言）
 const TILES={
-  en:{url:'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
-      attr:'&copy; OpenStreetMap contributors &copy; CARTO'},
+  en:{url:'https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}.png',
+      attr:'&copy; OpenStreetMap contributors · Wikimedia Maps'},
   zh:{url:'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
       attr:'&copy; OpenStreetMap contributors'}
 };
